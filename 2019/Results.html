@@ -234,7 +234,7 @@
 $(function() {
         var date = new Date();
         var dateString = date.getFullYear() + date.getMonth() + date.getDate() + date.getHours() + date.getMinutes() + date.getSeconds() + date.getMilliseconds();
-        $.get('/Portals/15/Result/2020/2020FSAdates.xml?timestamp=' + dateString, {}, getSuccess);
+        $.get('/Portals/15/Result/2019/2019FSAdates.xml?timestamp=' + dateString, {}, getSuccess);
     })
 </script>
 <table id="resultTable" class="telerik-reTable-1" style="display: block; overflow-x: auto;">
