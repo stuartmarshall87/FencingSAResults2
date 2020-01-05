@@ -1,0 +1,759 @@
+<html>
+  <head>
+    <Title>20190728OF 27/07/2019 - Foil - Male - Open</Title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <style type="text/css">
+      body
+      {
+        background:  #cccccc;
+        color:       #117827;
+        font-family: Geneva, Arial, Helvetica, sans-serif;
+      }
+      .Title h1
+      {
+        margin:       5;
+      }
+      .Round
+      {
+        display:     none;
+      }
+      .List
+      {
+        border-collapse:  collapse;
+        white-space:      nowrap;
+      }
+      .List th
+      {
+        padding:    5px;
+        text-align: left;
+      }
+      .List td
+      {
+        padding:    5px;
+      }
+      .ListHeader
+      {
+        background:  #117827;
+        color:       #dddddd;
+        font-weight: bold;
+      }
+      .EvenRow
+      {
+        background:  #f3f3f3;
+        color:       Black;
+      }
+      .OddRow
+      {
+        background:  #dddddd;
+        color:       Black;
+      }
+      .Separator
+      {
+        outline: 1px solid #117827;
+      }
+      .name
+      {
+        color:       Black;
+        padding:     5px;
+      }
+      .first_name
+      {
+        color:       Black;
+        font-weight: normal;
+        font-style:  italic;
+      }
+      .country
+      {
+        color:       Black;
+        font-weight: normal;
+        padding:     5px;
+      }
+      .PoolName
+      {
+        background:  #117827;
+        color:       #dddddd;
+        font-weight: bold;
+        padding:    5px;
+      }
+      .NoScoreCell
+      {
+        background: #117827;
+        width:      25px;
+        padding:    5px;
+      }
+      .PoolCell
+      {
+        text-align: center;
+        width:      25px;
+        border:     1px solid #117827;
+        padding:    5px;
+      }
+      .DashBoardCell
+      {
+        text-align:     right;
+        width:          25px;
+        padding-left:   5px;
+        padding-right:  5px;
+        padding:    5px;
+      }
+      .GridSeparator
+      {
+        width:      20px;
+        background: #cccccc;
+        color:      #117827;
+        text-align: right;
+        padding:    5px;
+        font-weight: bold;
+      }
+      .PoolSeparator
+      {
+        height:     35px;
+      }
+      .TableTable
+      {
+        border-collapse:  collapse;
+      }
+      .TableName
+      {
+        background:  #117827;
+        color:       White;
+        font-weight: bold;
+      }
+      .TableCell
+      {
+        background:   #dddddd;
+        color:        Black;
+        font-weight:  bold;
+        white-space:  nowrap;
+        border-left:  2px solid #117827;
+        border-right: 2px solid #117827;
+        padding:      5px;
+      }
+      .TableCellFirstCol
+      {
+        background:   #dddddd;
+        color:        Black;
+        font-weight:  bold;
+        white-space:  nowrap;
+        border-right: 2px solid #117827;
+        padding:      5px;
+      }
+      .TableCellLastCol
+      {
+        background:   #dddddd;
+        color:        Black;
+        font-weight:  bold;
+        border-left:  2px solid #117827;
+        padding:      5px;
+      }
+      .TableConnector
+      {
+        background:  #cccccc;
+        color:       #cccccc;
+        white-space: nowrap;
+        border-left: 2px solid #117827;
+      }
+      .EmptyTableCell
+      {
+        background:  #cccccc;
+      }
+      .TableScore
+      {
+        color:        #117827;
+        margin-right: 5px;
+      }
+      .Footer
+      {
+        color:       White;
+      }
+      #menu_bar {
+        list-style-type: none;
+        padding-bottom:  28px;
+        border-bottom:   1px solid #9EA0A1;
+        margin-left:     0;
+      }
+      #menu_bar li {
+        float:       left;
+        height:      25px;
+        margin:      2px 2px 0 4px;
+        background:  #cccccc;
+        border:      1px solid #9EA0A1;
+      }
+      #menu_bar li.active {
+      }
+      #menu_bar a {
+        display:         block;
+        text-decoration: none;
+        padding:         4px;
+      }
+      #menu_bar a:hover {
+        background:  #117827;
+        color:       #dddddd;
+      }
+      A:link    {text-decoration: underline; color: #117827}
+      A:visited {text-decoration: underline; color: #117827}
+    </style>
+
+    <script language="JavaScript">
+      var current_selection;
+
+      // ----------------------------------------------
+      function OnTabClicked (tab_id)
+      {
+        var element = document.getElementById (tab_id);
+
+        if (current_selection == null)
+        {
+          current_selection = document.getElementById ('round_0');
+        }
+        current_selection.style.display = "none";
+
+        current_selection = element;
+        current_selection.style.display = "inline";
+
+        document.cookie = 'current_tab=' + tab_id;
+      }
+
+      // ----------------------------------------------
+      function OnLoad ()
+      {
+        window.OnTabClicked (ReadCookie ('current_tab'));
+
+        setInterval (function(){location.reload ();}, 60*1000);
+      }
+
+      // ----------------------------------------------
+      function ReadCookie (name)
+      {
+        return (document.cookie.match ('(^|; )' + name + '=([^;]*)')||0)[2];
+      }
+    </script>
+  </head>
+
+  <body onLoad="javascript:OnLoad ();">
+    <div id='main_div'>
+      <div class="Title">
+        <center>
+          <h1>20190728OF</h1>
+          <h1>27/07/2019</h1>
+          <h1>Foil - Male - Open</h1>
+        </center>
+      <div>
+
+      <div id="menu">
+        <ul id="menu_bar">
+          <li><a href="" onclick="javascript:OnTabClicked ('round_0'); return false;">Check-in </a></li>
+          <li><a href="" onclick="javascript:OnTabClicked ('round_2'); return false;">Pools Round #1</a></li>
+          <li><a href="" onclick="javascript:OnTabClicked ('round_3'); return false;">Table </a></li>
+          <li><a href="" onclick="javascript:OnTabClicked ('round_4'); return false;">General classification </a></li>
+        </ul>
+      </div>
+
+      <div class="Round" id="round_0" style="display: inline">
+        <h1>Check-in</h1>
+        <table class="List">
+          <tr class="ListHeader">
+            <th>presence</th>
+            <th>last name</th>
+            <th>first name</th>
+            <th>date of birth</th>
+            <th>gender</th>
+            <th>club</th>
+            <th>league</th>
+            <th>region</th>
+            <th>country</th>
+            <th>ranking</th>
+            <th>licence</th>
+          </tr>
+          <tr class="EvenRow">
+            <td>1</td>
+            <td>Ferguson</td>
+            <td>Clayton</td>
+            <td></td>
+            <td>Male</td>
+            <td>CSFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>1</td>
+            <td></td>
+          </tr>
+          <tr class="OddRow">
+            <td>0</td>
+            <td>Alderson</td>
+            <td>Benjamin</td>
+            <td></td>
+            <td>Male</td>
+            <td>ASC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>2</td>
+            <td></td>
+          </tr>
+          <tr class="EvenRow">
+            <td>1</td>
+            <td>Chandran</td>
+            <td>Nalin</td>
+            <td></td>
+            <td>Male</td>
+            <td>ASC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>3</td>
+            <td></td>
+          </tr>
+          <tr class="OddRow">
+            <td>1</td>
+            <td>Pring</td>
+            <td>Oliver</td>
+            <td></td>
+            <td>Male</td>
+            <td>ASC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>4</td>
+            <td></td>
+          </tr>
+          <tr class="EvenRow">
+            <td>1</td>
+            <td>Cowling</td>
+            <td>Darcy</td>
+            <td></td>
+            <td>Male</td>
+            <td>AHFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>6</td>
+            <td></td>
+          </tr>
+          <tr class="OddRow">
+            <td>1</td>
+            <td>Betts</td>
+            <td>Nicholas</td>
+            <td></td>
+            <td>Male</td>
+            <td>AHFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>9</td>
+            <td></td>
+          </tr>
+          <tr class="EvenRow">
+            <td>1</td>
+            <td>Vingelis-Plant</td>
+            <td>Myka</td>
+            <td></td>
+            <td>Male</td>
+            <td>ASC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>10</td>
+            <td></td>
+          </tr>
+          <tr class="OddRow">
+            <td>1</td>
+            <td>Thomas</td>
+            <td>Angus</td>
+            <td></td>
+            <td>Male</td>
+            <td>CSFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+            <td>0</td>
+            <td></td>
+          </tr>
+          <tr class="EvenRow">
+            <td>0</td>
+            <td>** Without team **</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>0</td>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div class="Round" id="round_2">
+        <h1>Pools</h1>
+        <div>
+          <table>
+          <tr class="PoolName">
+            <td>Pool #01</td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator" style="text-align: center";>1</td>
+            <td class="GridSeparator" style="text-align: center";>2</td>
+            <td class="GridSeparator" style="text-align: center";>3</td>
+            <td class="GridSeparator" style="text-align: center";>4</td>
+            <td class="GridSeparator" style="text-align: center";>5</td>
+            <td class="GridSeparator" style="text-align: center";>6</td>
+            <td class="GridSeparator" style="text-align: center";>7</td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator" style="text-align: center";>#</td>
+            <td class="GridSeparator" style="text-align: center";>V</td>
+            <td class="GridSeparator" style="text-align: center";>+/-</td>
+            <td class="GridSeparator" style="text-align: center";>+</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>
+              <span class="name">Vingelis-Plant </span>            </td>
+            <td>
+              <span class="first_name">Myka </span>            </td>
+            <td>
+              <span class="country">AUS </span>            </td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator">1</td>
+            <td class="NoScoreCell"></td>
+            <td class="PoolCell">0</td>
+            <td class="PoolCell">1</td>
+            <td class="PoolCell">2</td>
+            <td class="PoolCell">1</td>
+            <td class="PoolCell">0</td>
+            <td class="PoolCell">V</td>
+            <td class="GridSeparator"></td>
+            <td class="DashBoardCell">7</td>
+            <td class="DashBoardCell">0.166</td>
+            <td class="DashBoardCell">-20</td>
+            <td class="DashBoardCell">9</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>
+              <span class="name">Cowling </span>            </td>
+            <td>
+              <span class="first_name">Darcy </span>            </td>
+            <td>
+              <span class="country">AUS </span>            </td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator">2</td>
+            <td class="PoolCell">V</td>
+            <td class="NoScoreCell"></td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">1</td>
+            <td class="PoolCell">2</td>
+            <td class="PoolCell">0</td>
+            <td class="GridSeparator"></td>
+            <td class="DashBoardCell">4</td>
+            <td class="DashBoardCell">0.500</td>
+            <td class="DashBoardCell">-1</td>
+            <td class="DashBoardCell">18</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>
+              <span class="name">Betts </span>            </td>
+            <td>
+              <span class="first_name">Nicholas </span>            </td>
+            <td>
+              <span class="country">AUS </span>            </td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator">3</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">4</td>
+            <td class="NoScoreCell"></td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">1</td>
+            <td class="PoolCell">0</td>
+            <td class="PoolCell">0</td>
+            <td class="GridSeparator"></td>
+            <td class="DashBoardCell">5</td>
+            <td class="DashBoardCell">0.333</td>
+            <td class="DashBoardCell">-9</td>
+            <td class="DashBoardCell">15</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>
+              <span class="name">Thomas </span>            </td>
+            <td>
+              <span class="first_name">Angus </span>            </td>
+            <td>
+              <span class="country">AUS </span>            </td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator">4</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">0</td>
+            <td class="PoolCell">3</td>
+            <td class="NoScoreCell"></td>
+            <td class="PoolCell">2</td>
+            <td class="PoolCell">2</td>
+            <td class="PoolCell">0</td>
+            <td class="GridSeparator"></td>
+            <td class="DashBoardCell">6</td>
+            <td class="DashBoardCell">0.166</td>
+            <td class="DashBoardCell">-15</td>
+            <td class="DashBoardCell">12</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>
+              <span class="name">Chandran </span>            </td>
+            <td>
+              <span class="first_name">Nalin </span>            </td>
+            <td>
+              <span class="country">AUS </span>            </td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator">5</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="NoScoreCell"></td>
+            <td class="PoolCell">4</td>
+            <td class="PoolCell">V</td>
+            <td class="GridSeparator"></td>
+            <td class="DashBoardCell">2</td>
+            <td class="DashBoardCell">0.833</td>
+            <td class="DashBoardCell">19</td>
+            <td class="DashBoardCell">29</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>
+              <span class="name">Ferguson </span>            </td>
+            <td>
+              <span class="first_name">Clayton </span>            </td>
+            <td>
+              <span class="country">AUS </span>            </td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator">6</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="NoScoreCell"></td>
+            <td class="PoolCell">V</td>
+            <td class="GridSeparator"></td>
+            <td class="DashBoardCell">1</td>
+            <td class="DashBoardCell">1.000</td>
+            <td class="DashBoardCell">20</td>
+            <td class="DashBoardCell">30</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>
+              <span class="name">Pring </span>            </td>
+            <td>
+              <span class="first_name">Oliver </span>            </td>
+            <td>
+              <span class="country">AUS </span>            </td>
+            <td class="GridSeparator"></td>
+            <td class="GridSeparator">7</td>
+            <td class="PoolCell">4</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">V</td>
+            <td class="PoolCell">0</td>
+            <td class="PoolCell">2</td>
+            <td class="NoScoreCell"></td>
+            <td class="GridSeparator"></td>
+            <td class="DashBoardCell">3</td>
+            <td class="DashBoardCell">0.500</td>
+            <td class="DashBoardCell">6</td>
+            <td class="DashBoardCell">21</td>
+          </tr>
+          <tr class="PoolSeparator">
+          </table>
+
+        </div>
+      </div>
+      <div class="Round" id="round_3">
+        <h1>Table</h1>
+        <div>
+          <table class="TableTable">
+            <tr class="TableName">
+              <th>Table of 8</th>
+              <th>Semi-final</th>
+              <th>Final</th>
+              <th>Winner</th>
+            </tr>
+            <tr>
+              <th></th>
+            </tr>
+            <tr>
+              <td class="TableCellFirstCol"><span class="name">Ferguson </span><span class="first_name">Clayton </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="TableCell"><span class="TableScore">V0-0</span><span class="name">Ferguson </span><span class="first_name">Clayton </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableCell"><span class="TableScore">V-8</span><span class="name">Ferguson </span><span class="first_name">Clayton </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+            <tr>
+              <td class="TableCellFirstCol"><span class="name">Betts </span><span class="first_name">Nicholas </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+              <td class="TableConnector">|</td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="TableCell"><span class="TableScore">V-11</span><span class="name">Betts </span><span class="first_name">Nicholas </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+            </tr>
+            <tr>
+              <td class="TableCellFirstCol"><span class="name">Cowling </span><span class="first_name">Darcy </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableCellLastCol"><span class="TableScore">4-V</span><span class="name">Chandran </span><span class="first_name">Nalin </span><span class="country">AUS </span></td>
+            </tr>
+            <tr>
+              <td class="TableCellFirstCol"><span class="name">Pring </span><span class="first_name">Oliver </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="TableCell"><span class="TableScore">V-3</span><span class="name">Pring </span><span class="first_name">Oliver </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+            </tr>
+            <tr>
+              <td class="TableCellFirstCol"><span class="name">Thomas </span><span class="first_name">Angus </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+              <td class="TableConnector">|</td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableCell"><span class="TableScore">11-V</span><span class="name">Chandran </span><span class="first_name">Nalin </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+            <tr>
+              <td class="TableCellFirstCol"><span class="name">Vingelis-Plant </span><span class="first_name">Myka </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="TableConnector">|</td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+            <tr>
+              <td class="EmptyTableCell"></td>
+              <td class="TableCell"><span class="TableScore">1-V</span><span class="name">Chandran </span><span class="first_name">Nalin </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+            <tr>
+              <td class="TableCellFirstCol"><span class="name">Chandran </span><span class="first_name">Nalin </span><span class="country">AUS </span></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+              <td class="EmptyTableCell"></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="Round" id="round_4">
+        <h1>General classification</h1>
+        <table class="List">
+          <tr class="ListHeader">
+            <th>place</th>
+            <th>last name</th>
+            <th>first name</th>
+            <th>club</th>
+            <th>league</th>
+            <th>region</th>
+            <th>country</th>
+          </tr>
+          <tr class="EvenRow">
+            <td>1</td>
+            <td>Chandran</td>
+            <td>Nalin</td>
+            <td>ASC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+          </tr>
+          <tr class="OddRow">
+            <td>2</td>
+            <td>Ferguson</td>
+            <td>Clayton</td>
+            <td>CSFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+          </tr>
+          <tr class="Separator">
+          <tr class="EvenRow">
+            <td>3</td>
+            <td>Pring</td>
+            <td>Oliver</td>
+            <td>ASC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+          </tr>
+          <tr class="OddRow">
+            <td>3</td>
+            <td>Betts</td>
+            <td>Nicholas</td>
+            <td>AHFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+          </tr>
+          <tr class="Separator">
+          <tr class="EvenRow">
+            <td>5</td>
+            <td>Cowling</td>
+            <td>Darcy</td>
+            <td>AHFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+          </tr>
+          <tr class="OddRow">
+            <td>6</td>
+            <td>Thomas</td>
+            <td>Angus</td>
+            <td>CSFC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+          </tr>
+          <tr class="EvenRow">
+            <td>7</td>
+            <td>Vingelis-Plant</td>
+            <td>Myka</td>
+            <td>ASC</td>
+            <td></td>
+            <td></td>
+            <td>Australia</td>
+          </tr>
+        </table>
+      </div>
+      <div class="Footer">
+        <h6>Managed by BellePoule <a href="http://betton.escrime.free.fr/index.php/bellepoule">http://betton.escrime.free.fr/index.php/bellepoule</a><h6/>
+      <div>
+    </div>
+  </body>
+</html>
