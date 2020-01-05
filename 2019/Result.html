@@ -1,0 +1,371 @@
+﻿<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+<link href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" type="text/css" rel="stylesheet">
+<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<style type="text/css">
+    body {
+        background: #cccccc;
+        color: #117827;
+        font-family: Geneva, Arial, Helvetica, sans-serif;
+    }
+
+    .Title h1 {
+        margin: 5;
+    }
+
+    .Round {
+        display: none;
+    }
+
+    .List {
+        border-collapse: collapse;
+        white-space: nowrap;
+        overflow-x: auto;
+        display: block;
+    }
+
+        .List th {
+            padding: 5px;
+            text-align: left;
+        }
+
+        .List td {
+            padding: 5px;
+        }
+
+    .ListHeader {
+        background: #9a0303 !important;
+        color: white !important;
+        font-weight: bold;
+    }
+
+    .EvenRow {
+        background: #f3f3f3;
+        color: Black;
+    }
+
+    .OddRow {
+        background: #dddddd;
+        color: Black;
+    }
+
+    .Separator {
+        outline: 1px solid #9a0303 !important;
+    }
+
+    .name {
+        color: Black;
+        padding: 5px;
+    }
+
+    .first_name {
+        color: Black;
+        font-weight: normal;
+        font-style: italic;
+    }
+
+    .country {
+        color: Black;
+        font-weight: normal;
+        padding: 5px;
+    }
+
+    .PoolName {
+        background: #9a0303 !important;
+        color: white !important;
+        font-weight: bold;
+        padding: 5px;
+    }
+
+    .NoScoreCell {
+        background: #9a0303 !important;
+        width: 25px;
+        padding: 5px;
+    }
+
+    .PoolCell {
+        text-align: center;
+        width: 25px;
+        border: 1px solid #9a0303 !important;
+        padding: 5px;
+    }
+
+    .DashBoardCell {
+        text-align: right;
+        width: 25px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding: 5px;
+    }
+
+    .GridSeparator {
+        width: 20px;
+        background: #cccccc;
+        color: #9a0303 !important;
+        text-align: right;
+        padding: 5px;
+        font-weight: bold;
+    }
+
+    .PoolSeparator {
+        height: 35px;
+    }
+
+    .TableTable {
+        border-collapse: collapse;
+    }
+
+    .TableName {
+        background: #9a0303 !important;
+        color: white !important;
+        font-weight: bold;
+    }
+
+    .TableCell {
+        background: #dddddd;
+        color: Black;
+        font-weight: bold;
+        white-space: nowrap;
+        border-left: 2px solid #9a0303 !important;
+        border-right: 2px solid #9a0303 !important;
+        padding: 5px;
+    }
+
+    .TableCellFirstCol {
+        background: #dddddd;
+        color: Black;
+        font-weight: bold;
+        white-space: nowrap;
+        border-right: 2px solid #9a0303 !important;
+        padding: 5px;
+    }
+
+    .TableCellLastCol {
+        background: #dddddd;
+        color: Black;
+        font-weight: bold;
+        border-left: 2px solid #9a0303 !important;
+        padding: 5px;
+    }
+
+    .TableConnector {
+        background: #cccccc;
+        color: #cccccc;
+        white-space: nowrap;
+        border-left: 2px solid #9a0303 !important;
+    }
+
+    .EmptyTableCell {
+        background: #cccccc;
+    }
+
+    .TableScore {
+        color: #9a0303 !important;
+        margin-right: 5px;
+    }
+
+    .Footer {
+        color: white !important;
+    }
+
+        .Footer A:vistied {
+            color: #9a0303 !important;
+        }
+
+        .Footer A:link {
+            color: #9a0303 !important;
+        }
+
+    #menu_bar {
+        list-style-type: none;
+        padding-bottom: 28px;
+        border-bottom: 1px solid #9EA0A1;
+        margin-left: 0;
+    }
+
+        #menu_bar li {
+            float: left;
+            height: 25px;
+            margin: 2px 2px 0 4px;
+            background: #cccccc;
+            border: 1px solid #9EA0A1;
+        }
+
+            #menu_bar li.active {
+            }
+
+        #menu_bar a {
+            display: block;
+            text-decoration: none;
+            padding: 4px;
+        }
+
+            #menu_bar a:hover {
+                background: #9a0303 !important;
+                color: white !important;
+            }
+
+            #menu_bar A:link {
+                text-decoration: none !important;
+                color: black
+            }
+
+            #menu_bar A:visited {
+                text-decoration: none !important;
+                color: black
+            }
+
+    .Title {
+        display: none !important;
+    }
+
+    #main_div .Title {
+        display: inherit !important;
+    }
+
+        #main_div .Title center {
+            display: none !important;
+        }
+</style> <div class="tabs"> </div>
+<script type="text/javascript">
+    $(function () {
+        var getParameterByName = function (name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            regex = new RegExp("[?" + String.fromCharCode(38) + "]" + name + "=[^" + String.fromCharCode(38) + "]*");
+            var result = regex.exec(url);
+            var parts = result == null ? '' : result[0].split('=');
+            if (!parts) return null;
+            if (!parts[1]) return '';
+            return decodeURIComponent(parts[1].replace(/\+/g, " "));
+        };
+        var date = getParameterByName('date', window.location.search.toLowerCase());
+        var category = getParameterByName('category', window.location.search.toLowerCase());
+        var weapon = getParameterByName('weapon', window.location.search.toLowerCase());
+        var gender = getParameterByName('gender', window.location.search.toLowerCase());
+        gender = gender == null ? '' : gender;
+        var name = getParameterByName('name', window.location.search.toLowerCase());
+        name = name == null ? '' : name;
+        var year = date.substring(0, 4);
+        var month = date.substring(4, 6);
+        var day = date.substring(6, 8);
+        var dateName = day;
+        switch (month) {
+            case "01": dateName = dateName + ' January ' + year;
+                break;
+            case "02": dateName = dateName + ' Feburary ' + year;
+                break;
+            case "03": dateName = dateName + ' March ' + year;
+                break;
+            case "04": dateName = dateName + ' April ' + year;
+                break;
+            case "05": dateName = dateName + ' May ' + year;
+                break;
+            case "06": dateName = dateName + ' June ' + year;
+                break;
+            case "07": dateName = dateName + ' July ' + year;
+                break;
+            case "08": dateName = dateName + ' August ' + year;
+                break;
+            case "09": dateName = dateName + ' September ' + year;
+                break;
+            case "10": dateName = dateName + ' October ' + year;
+                break;
+            case "11": dateName = dateName + ' November ' + year;
+                break;
+            case "12": dateName = dateName + ' December ' + year;
+                break;
+        } var categoryString = category;
+        switch (category.toLowerCase()) {
+            case "oa": categoryString = 'Open A';
+                break;
+            case "ob": categoryString = 'Open B';
+                break;
+            case "ca": categoryString = 'Cadet A';
+                break;
+            case "cb": categoryString = 'Cadet B';
+                break;
+            case "o": categoryString = 'Open';
+                break;
+            case "i": categoryString = 'Intermediate';
+                break;
+            case "n": categoryString = 'Novice';
+                break;
+            case "ot": categoryString = 'Open Teams';
+                break;
+            case "u11": categoryString = 'U11';
+                break;
+            case "u13": categoryString = 'U13';
+                break;
+            case "u13t": categoryString = 'U13 Teams';
+                break;
+            case "u14t": categoryString = 'U14 Teams';
+                break;
+            case "t": categoryString = 'Teams';
+                break;
+            case "u15": categoryString = 'U15';
+                break;
+            case "u1720": categoryString = 'U17/U20';
+                break;
+            case "v": categoryString = 'Veterans';
+                break;
+            case "yi": categoryString = 'Youth Intermediate';
+                break;
+            case "vt": categoryString = 'Veteran Teams';
+                break;
+        } var weaponString = weapon;
+        switch (weapon.toLowerCase()) {
+            case "f": weaponString = 'Foil';
+                break;
+            case "e": weaponString = 'Epée';
+                break;
+            case "s": weaponString = 'Sabre';
+                break;
+        } var genderString = '';
+        var genderIndex = '';
+        switch (gender.toLowerCase()) {
+            case "w": genderString = 'Womens';
+                genderIndex = 'Female';
+                break;
+            case "m": genderString = 'Mens';
+                genderIndex = 'Male';
+                break;
+            case "b": genderString = 'Boys';
+                genderIndex = 'Male';
+                break;
+            case "g": genderString = 'Girls';
+                genderIndex = 'Female';
+                break;
+        } var nameString = name == null ? '' : name;
+        switch (nameString.toLowerCase()) {
+            case "kbt": if (gender.toLowerCase() == "w") {
+                nameString = 'Andrea Chaplin';
+            } else {
+                nameString = 'Kingsley B Thomsen';
+            };
+                break;
+            case "bk": if (gender.toLowerCase() == "w") {
+                nameString = 'Coraine Sopru';
+            } else {
+                nameString = 'Bruce Kneale';
+            };
+                break;
+            case "sc": nameString = 'State Championships';
+                break;
+            case "fcc": nameString = 'Future Championship Cup';
+                break;
+            case "mc": nameString = 'Meredith Coleman';
+                break;
+            case "amg": nameString = 'Australian Masters Games';
+                break;
+        } var comp = dateName + ' ' + nameString + ' ' + categoryString + ' ' + genderString + ' ' + weaponString;
+        $("#dnn_ctr10721_Title_titleLabel").text(comp);
+        var compCode = (date + category + gender + weapon).toUpperCase();
+        var path = "https://stuartmarshall87.github.io/FencingSAResults/" + year + "/" + compCode + ".html";
+        $.get(path, function (data) {
+            $('.tabs').html(data);
+        });
+    });
+</script>
