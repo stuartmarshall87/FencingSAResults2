@@ -37,7 +37,7 @@
 		<Date>20200301</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U11</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>E</Weapon>
@@ -48,7 +48,7 @@
 		<Date>20200301</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U13</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
