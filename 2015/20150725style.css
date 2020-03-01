@@ -1,0 +1,99 @@
+body {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; background-color: rgb(255, 255, 255);
+}
+h1 {
+	text-align: center; font-size: 240%;
+}
+h2 {
+	text-align: center; font-size: 180%;
+}
+h3 {
+	font-size: 140%;
+}
+table.liste {
+	border: 2px solid rgb(0, 0, 0); border-image: none; color: rgb(0, 0, 0); font-size: 100%; border-collapse: collapse; background-color: rgb(255, 255, 255);
+}
+table.liste th {
+	padding: 2px 0.5em; border: 1px solid rgb(47, 79, 79); border-image: none; color: rgb(70, 130, 180); background-color: rgb(255, 239, 213);
+}
+table.liste td {
+	padding: 2px 0.5em; border: 1px solid rgb(47, 79, 79); border-image: none;
+}
+.color1 {
+	color: rgb(0, 0, 0); background-color: rgb(255, 215, 0);
+}
+.color2 {
+	color: rgb(0, 0, 0); background-color: rgb(192, 192, 192);
+}
+.color4 {
+	color: rgb(0, 0, 0); background-color: rgb(184, 134, 11);
+}
+.color8 {
+	color: rgb(0, 0, 0); background-color: rgb(204, 255, 204);
+}
+.color16 {
+	color: rgb(0, 0, 0); background-color: rgb(255, 250, 205);
+}
+.color32 {
+	color: rgb(0, 0, 0); background-color: rgb(255, 192, 203);
+}
+.color64 {
+	color: rgb(0, 0, 0); background-color: rgb(184, 217, 220);
+}
+.color128 {
+	color: rgb(0, 0, 0); background-color: rgb(255, 250, 205);
+}
+.color256 {
+	color: rgb(0, 0, 0); background-color: rgb(255, 192, 203);
+}
+.color512 {
+	color: rgb(0, 0, 0); background-color: rgb(184, 217, 220);
+}
+.pair {
+	color: rgb(0, 0, 0); background-color: rgb(238, 238, 238);
+}
+.impair {
+	color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);
+}
+.nombre {
+	text-align: right;
+}
+.centre {
+	text-align: center;
+}
+table.poule {
+	border: 2px solid rgb(0, 0, 0); border-image: none; color: rgb(0, 0, 0); font-size: 90%; border-collapse: collapse; background-color: rgb(255, 255, 255);
+}
+table.poule th {
+	padding: 2px 0.5em; border: 1px solid rgb(47, 79, 79); border-image: none; color: rgb(70, 130, 180); background-color: rgb(255, 239, 213);
+}
+table.poule td {
+	padding: 2px 0.5em; border: 1px solid rgb(47, 79, 79); border-image: none;
+}
+.inutilise {
+	color: rgb(0, 0, 0); background-color: rgb(187, 187, 187);
+}
+table.tableau {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(0, 0, 0); font-size: 90%; border-collapse: collapse; empty-cells: show; background-color: rgb(255, 255, 255);
+}
+.ligne {
+	margin: 0px; border-right-color: rgb(0, 0, 0); border-right-width: 1px; border-right-style: solid;
+}
+.boite {
+	margin: 0px; border: 1px solid rgb(0, 0, 0); border-image: none;
+}
+td.D {
+	border-right-color: windowtext; border-right-width: 0.5pt; border-right-style: solid;
+}
+td.BD {
+	border-right-color: windowtext; border-bottom-color: windowtext; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-right-style: solid; border-bottom-style: solid;
+}
+td.GBD {
+	border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-left-width: 0.5pt; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+td.HBD {
+	border-top-color: windowtext; border-right-color: windowtext; border-bottom-color: windowtext; border-top-width: 0.5pt; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-top-style: solid; border-right-style: solid; border-bottom-style: solid;
+}
+td.HGBD {
+	border: 0.5pt solid windowtext; border-image: none;
+}
