@@ -134,102 +134,102 @@
 	</comp>
 	<comp>
 		<Date>20200328</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U10</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200328</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U12</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200328</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U12</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:45</Rollcall>
 		<Time>14:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200328</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U14</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:45</Rollcall>
 		<Time>14:00</Time>
 		<Weapon>E</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200329</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U14T</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>08:45</Rollcall>
 		<Time>09:00</Time>
 		<Weapon>E</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200329</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U14T</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>08:45</Rollcall>
 		<Time>09:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200329</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U14T</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>08:45</Rollcall>
 		<Time>09:00</Time>
 		<Weapon>S</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200329</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U14</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>S</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200329</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U14</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FCC</Name>
-		<Link>37149</Link>
+		<Link/>
 	</comp>
 	<comp>
 		<Date>20200503</Date>
