@@ -90,7 +90,7 @@
 	</comp>
 	<comp>
 		<Date>20200315</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
@@ -123,7 +123,7 @@
 	</comp>
 	<comp>
 		<Date>20200315</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
