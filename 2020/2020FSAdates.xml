@@ -81,7 +81,7 @@
 		<Date>20200315</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>S</Weapon>
@@ -103,10 +103,32 @@
 		<Date>20200315</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link>37514</Link>
+	</comp>
+	<comp>
+		<Date>20200315</Date>
+		<Cancelled>0</Cancelled>
+		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link>37514</Link>
+	</comp>
+	<comp>
+		<Date>20200315</Date>
+		<Cancelled>0</Cancelled>
+		<Category>V</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>E</Weapon>
 		<Name>FSA</Name>
 		<Link>37514</Link>
 	</comp>
