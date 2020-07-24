@@ -5,7 +5,9 @@
 
     function getParameterByName(name, url) {
         if (!url) url = window.location.href;
-        name = name.replace(/[\[\]]/g, "\\$&");
+        url = url.replace('%3d', '=');
+        url = url.replace('%3F', '?');
+        name = name.replace(/[\[\]]/g, "\\$&");        
         regex = new RegExp("[?" + String.fromCharCode(38) + "]" + name + "=[^" + String.fromCharCode(38) + "]*");
         var result = regex.exec(url);
         var parts = result == null ? '' : result[0].split('=');
