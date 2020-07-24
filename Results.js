@@ -23,10 +23,10 @@ $(window).on('load', function () {
     var compCode = date + category + gender + weapon;     
 
 
-    const repoPath = "https://stuartmarshall87.github.io/FencingSAResults/";
+    const repoPath = "./";
     if(platform == 'E') {
-        $('head').append('<link rel="stylesheet" href="' + repoPath + '2017/style.css" type="text/css"/>');
-        $('head').append('<link rel="stylesheet" href="' + repoPath + '2017/print.css" type="text/css"/>');
+        $('head').append('<link rel="stylesheet" href="' + repoPath + 'style.css" type="text/css"/>');
+        $('head').append('<link rel="stylesheet" href="' + repoPath + 'print.css" type="text/css"/>');
         var path = repoPath + year + "/" + compCode.toUpperCase();
         $.get(path + 'F' + ".htm" + "?timestamp=" + (new Date()).getTime(), function(data) {
             $('#fencers').html(data);
