@@ -27,6 +27,7 @@ $(window).on('load', function () {
     if(platform == 'E') {
         $('head').append('<link rel="stylesheet" href="' + repoPath + 'style.css" type="text/css"/>');
         $('head').append('<link rel="stylesheet" href="' + repoPath + 'print.css" type="text/css"/>');
+        $('#tabs').show();
         var path = repoPath + year + "/" + compCode.toUpperCase();
         $.get(path + 'F' + ".htm" + "?timestamp=" + (new Date()).getTime(), function(data) {
             $('#fencers').html(data);
@@ -40,8 +41,7 @@ $(window).on('load', function () {
         $.get(path + 'R' + ".htm" + "?timestamp=" + (new Date()).getTime(), function(data) {
             $('#ranking').html(data);
         });
-        $('#egTabs').show()
-        $('#egTabs').tabs()
+        $('#tabNav').tabs()
     }
     else {
         var path = repoPath + year + "/" + compCode.toUpperCase() + ".html" + "?timestamp=" + (new Date()).getTime();
