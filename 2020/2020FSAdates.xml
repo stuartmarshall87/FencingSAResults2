@@ -552,7 +552,18 @@
 	</comp>
 	<comp>
 		<Date>20200726</Date>
-		<Cancelled>1</Cancelled>
+		<Cancelled>0</Cancelled>
+		<Category>O</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20200726</Date>
+		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
@@ -563,9 +574,9 @@
 	</comp>
 	<comp>
 		<Date>20200726</Date>
-		<Cancelled>1</Cancelled>
+		<Cancelled>0</Cancelled>
 		<Category>O</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>S</Weapon>
@@ -585,9 +596,9 @@
 	</comp>
 	<comp>
 		<Date>20200726</Date>
-		<Cancelled>1</Cancelled>
+		<Cancelled>0</Cancelled>
 		<Category>O</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
@@ -596,9 +607,9 @@
 	</comp>
 	<comp>
 		<Date>20200726</Date>
-		<Cancelled>1</Cancelled>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>E</Weapon>
@@ -625,7 +636,7 @@
 		<Time>10:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FSA</Name>
-		<Link/>
+		<Link>40255</Link>
 	</comp>
 	<comp>
 		<Date>20200816</Date>
@@ -691,7 +702,7 @@
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
 		<Name>FSA</Name>
-		<Link/>
+		<Link>40256</Link>
 	</comp>
 	<comp>
 		<Date>20200913</Date>
@@ -757,7 +768,7 @@
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
 		<Name>SC</Name>
-		<Link/>
+		<Link>40257</Link>
 	</comp>
 	<comp>
 		<Date>20200920</Date>
@@ -823,7 +834,7 @@
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
 		<Name>SC</Name>
-		<Link/>
+		<Link>40258</Link>
 	</comp>
 	<comp>
 		<Date>20201018</Date>
@@ -889,7 +900,7 @@
 		<Time>10:00</Time>
 		<Weapon>F</Weapon>
 		<Name>SC</Name>
-		<Link/>
+		<Link>40284</Link>
 	</comp>
 	<comp>
 		<Date>20201025</Date>
@@ -954,8 +965,8 @@
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
+		<Name>BK</Name>
+		<Link>40285</Link>
 	</comp>
 	<comp>
 		<Date>20201108</Date>
@@ -965,7 +976,7 @@
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>S</Weapon>
-		<Name>FSA</Name>
+		<Name>MC</Name>
 		<Link/>
 	</comp>
 	<comp>
@@ -987,7 +998,7 @@
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
-		<Name>FSA</Name>
+		<Name>KBT</Name>
 		<Link/>
 	</comp>
 	<comp>
