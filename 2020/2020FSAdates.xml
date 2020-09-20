@@ -773,7 +773,7 @@
 	<comp>
 		<Date>20200913</Date>
 		<Cancelled>0</Cancelled>
-		<Category>U20T</Category>
+		<Category>U17T</Category>
 		<SplitGender>0</SplitGender>
 		<Rollcall>10:45</Rollcall>
 		<Time>11:00</Time>
@@ -829,7 +829,7 @@
 		<Date>20200920</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
@@ -841,6 +841,17 @@
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>E</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20200920</Date>
+		<Cancelled>0</Cancelled>
+		<Category>O</Category>
+		<SplitGender>0</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>S</Weapon>
@@ -849,11 +860,22 @@
 	</comp>
 	<comp>
 		<Date>20200920</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
+		<Weapon>F</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20200920</Date>
+		<Cancelled>0</Cancelled>
+		<Category>O</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
 		<Weapon>F</Weapon>
 		<Name>SC</Name>
 		<Link/>
@@ -873,7 +895,7 @@
 		<Date>20200920</Date>
 		<Cancelled>0</Cancelled>
 		<Category>V</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>E</Weapon>
@@ -885,6 +907,17 @@
 		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>E</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20200920</Date>
+		<Cancelled>0</Cancelled>
+		<Category>V</Category>
+		<SplitGender>0</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>S</Weapon>
