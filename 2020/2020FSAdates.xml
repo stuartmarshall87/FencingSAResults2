@@ -1126,7 +1126,7 @@
 		<Date>20201115</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OT</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>10:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
@@ -1136,22 +1136,44 @@
 	<comp>
 		<Date>20201115</Date>
 		<Cancelled>0</Cancelled>
-		<Category>OT</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>11:45</Rollcall>
-		<Time>11:30</Time>
-		<Weapon>S</Weapon>
+		<Category>U17T</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>F</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
 		<Date>20201115</Date>
 		<Cancelled>0</Cancelled>
-		<Category>OT</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>13:00</Time>
+		<Category>U17T</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20201115</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U13T</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>10:00</Time>
 		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20201115</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U13T</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>E</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
