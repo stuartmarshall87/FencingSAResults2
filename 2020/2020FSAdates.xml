@@ -1060,10 +1060,32 @@
 		<Date>20201025</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>F</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20201025</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>F</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20201025</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OB</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>11:00</Time>
+		<Weapon>E</Weapon>
 		<Name>SC</Name>
 		<Link/>
 	</comp>
@@ -1080,12 +1102,23 @@
 	</comp>
 	<comp>
 		<Date>20201025</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:45</Rollcall>
 		<Time>12:00</Time>
 		<Weapon>S</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20201025</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OB</Category>
+		<SplitGender>0</SplitGender>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
+		<Weapon>F</Weapon>
 		<Name>SC</Name>
 		<Link/>
 	</comp>
@@ -1102,7 +1135,7 @@
 	</comp>
 	<comp>
 		<Date>20201025</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:15</Rollcall>
@@ -1113,7 +1146,7 @@
 	</comp>
 	<comp>
 		<Date>20201025</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:15</Rollcall>
