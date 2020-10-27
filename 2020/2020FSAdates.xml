@@ -1228,7 +1228,7 @@
 		<SplitGender>0</SplitGender>
 		<Rollcall>10:45</Rollcall>
 		<Time>10:00</Time>
-		<Weapon>E</Weapon>
+		<Weapon/>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
