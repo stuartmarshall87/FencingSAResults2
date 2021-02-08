@@ -48,16 +48,11 @@ td
 .xl65
 	{mso-style-parent:style0;
 	font-size:8.0pt;
-	mso-number-format:"\[$-C09\]d\\ mmmm\\ yyyy\;\@";
-	text-align:center;}
+	mso-number-format:"\[$-C09\]dd\\-mmm\\-yy\;\@";}
 .xl66
 	{mso-style-parent:style0;
-	font-size:8.0pt;
-	mso-number-format:"\[$-C09\]dd\\-mmm\\-yy\;\@";}
-.xl67
-	{mso-style-parent:style0;
 	font-size:9.0pt;}
-.xl68
+.xl67
 	{mso-style-parent:style0;
 	color:white;
 	font-size:9.0pt;
@@ -68,7 +63,7 @@ td
 	border-left:none;
 	background:#305496;
 	mso-pattern:#305496 none;}
-.xl69
+.xl68
 	{mso-style-parent:style0;
 	color:white;
 	font-size:9.0pt;
@@ -79,18 +74,18 @@ td
 	border-left:none;
 	background:#305496;
 	mso-pattern:#305496 none;}
-.xl70
+.xl69
 	{mso-style-parent:style0;
 	font-size:9.0pt;
 	mso-number-format:"d\/m\/yy\;\@";
 	text-align:center;
 	vertical-align:middle;}
-.xl71
+.xl70
 	{mso-style-parent:style0;
 	font-size:9.0pt;
 	text-align:center;
 	vertical-align:middle;}
-.xl72
+.xl71
 	{mso-style-parent:style0;
 	color:white;
 	font-size:9.0pt;
@@ -101,7 +96,12 @@ td
 	border-left:none;
 	background:#305496;
 	mso-pattern:#305496 none;}
-.xl73
+.xl72
 	{mso-style-parent:style0;
 	font-size:9.0pt;
 	mso-number-format:"0\.0";}
+.xl73
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	mso-number-format:"\[$-C09\]d\\ mmmm\\ yyyy\;\@";
+	text-align:center;}
