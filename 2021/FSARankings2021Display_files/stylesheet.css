@@ -87,21 +87,42 @@ td
 	vertical-align:middle;}
 .xl71
 	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"0\.0";}
+.xl72
+	{mso-style-parent:style0;
 	color:white;
 	font-size:9.0pt;
 	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #305496;
+	border-right:none;
+	border-bottom:.5pt solid #305496;
+	border-left:none;
+	background:#305496;
+	mso-pattern:#305496 none;}
+.xl73
+	{mso-style-parent:style0;
+	color:white;
+	font-size:9.0pt;
+	text-align:center;
+	vertical-align:middle;
 	border-top:.5pt solid #305496;
 	border-right:none;
 	border-bottom:.5pt solid #D9E1F2;
 	border-left:none;
 	background:#305496;
 	mso-pattern:#305496 none;}
-.xl72
+.xl74
 	{mso-style-parent:style0;
-	font-size:9.0pt;
-	mso-number-format:"0\.0";}
-.xl73
+	text-align:center;
+	vertical-align:middle;}
+.xl75
 	{mso-style-parent:style0;
 	font-size:8.0pt;
 	mso-number-format:"\[$-C09\]d\\ mmmm\\ yyyy\;\@";
 	text-align:center;}
+.xl76
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"d\/m\/yy\;\@";}
