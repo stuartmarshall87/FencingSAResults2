@@ -137,6 +137,20 @@ td
 	text-align:center;}
 .xl78
 	{mso-style-parent:style0;
+	text-align:center;}
+.xl79
+	{mso-style-parent:style0;
 	font-size:8.0pt;
 	mso-number-format:"\[$-C09\]d\\ mmmm\\ yyyy\;\@";
 	text-align:center;}
+.xl80
+	{mso-style-parent:style0;
+	color:white;
+	font-size:9.0pt;
+	text-align:center;
+	border-top:.5pt solid #305496;
+	border-right:none;
+	border-bottom:.5pt solid #D9E1F2;
+	border-left:none;
+	background:#305496;
+	mso-pattern:#305496 none;}
