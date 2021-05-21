@@ -12,7 +12,7 @@ var results = [];
 var categories = [];
 
 function getSuccess(xml) {
-    var rawResults = $(xml).children();
+    var rawResults = $(xml).children().children();
     for (var i = 0; i < rawResults.length; i++) {
         var rawResult = rawResults[i];
         var lastName = $(rawResult).find('LastName').text();
