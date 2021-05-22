@@ -1,0 +1,263 @@
+<link href = "https://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" type = "text/css" rel = "stylesheet" />
+<script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+  <script
+  src="https://code.jquery.com/ui/1.10.4/jquery-ui.min.js"
+  integrity="sha256-oTyWrNiP6Qftu4vs2g0RPCKr3g1a6QTlITNgoebxRc4="
+  crossorigin="anonymous"></script>
+<script type = "text/javascript">
+var results = [];
+var categories = [];
+
+function getSuccess(xml) {
+    var rawResults = $(xml).children().children();
+    for (var i = 0; i < rawResults.length; i++) {
+        var rawResult = rawResults[i];
+        var lastName = $(rawResult).find('LastName').text();
+        var firstName = $(rawResult).find('FirstName').text();
+        var club = $(rawResult).find('Club').text();
+        var weapon = $(rawResult).find('Weapon').text();
+        var category = $(rawResult).find('AgeGroup').text();
+        var gender = $(rawResult).find('Gender').text();
+        var rank = $(rawResult).find('Rank').text();
+        var eventDate = $(rawResult).find('EventDate').text();
+        var eventName = $(rawResult).find('EventName').text();
+        var points = $(rawResult).find('Points').text();
+        results.push({
+            lastName: lastName,
+            firstName: firstName,
+            club: club,
+            weapon: weapon,
+            category: category,
+            gender: gender,
+            eventDate: eventDate,
+            eventName: eventName,
+            points: parseInt(points)
+        });
+    }
+    results.forEach(function(value) {
+        if (!categories.some(function(event) {
+                return (event.category == value.category && event.weapon == value.weapon);
+            })) {
+            categories.push({
+                category: value.category,
+                weapon: value.weapon
+            });
+        }
+    });
+    weaponSelected();
+}
+
+function weaponSelected() {
+    var weapon = $('#weaponSelect').find(":selected")[0].value;
+    var cats = categories.filter(function(cat) {
+        return cat.weapon == weapon;
+    }).sort(function(a, b) {
+        return a.category == b.category ? 0 : (a.category <= b.category ? -1 : 1);
+    });
+    var catSelect = $('#categorySelect');
+    catSelect.find('option').remove().end();
+    cats.forEach(cat => {
+        catSelect.append($('<option>', {
+            value: cat.category,
+            text: cat.category
+        }));
+    });
+    categorySelected();
+}
+
+function categorySelected() {
+    var weapon = $('#weaponSelect').find(":selected")[0].value;
+    var catSelected = $('#categorySelect').find(":selected")[0];
+    if(catSelected == null){
+        return;
+    }
+
+    var category = catSelected.value;
+    var maleName = '';
+    var femaleName = '';
+    if (category == 'U9' || category == 'U11' || category == 'U13' || category == 'U15') {
+        maleName = 'Boys';
+        femaleName = 'Girls';
+    } else {
+        maleName = 'Mens';
+        femaleName = 'Womens';
+    }
+    $('#maleHeader').text(maleName);
+    $('#femaleHeader').text(femaleName);
+    var maleResults = results.filter(function(res) {
+        return res.weapon == weapon && res.category == category && res.gender == 'Men';
+    });
+    buildTable('maleResults', maleResults);
+    var femaleResults = results.filter(function(res) {
+        return res.weapon == weapon && res.category == category && res.gender == 'Women';
+    });
+    buildTable('femaleResults', femaleResults);
+}
+
+function buildTable(tableId, filteredResults) {
+    var dates = [];
+    filteredResults.forEach(function(res) {
+        if (!dates.some(function(dt) {
+                return res.eventDate == dt.eventDate;
+            })) {
+            dates.push({
+                eventDate: res.eventDate,
+                eventName: res.eventName
+            });
+        }
+    });
+    dates = dates.sort(function(a, b) {
+        return a.eventDate == b.eventDate ? 0 : (a.eventDate < b.eventDate ? -1 : 1);
+    });
+    $("#" + tableId + " tr").remove();
+    var row = '<tr class="telerik-reTableHeaderRow-1">';
+    row = row + '<th rowspan="2">Name</th>';
+    row = row + '<th rowspan="2">Club</th>';
+    row = row + '<th rowspan="2">Place</th>';
+    dates.forEach(function(dt) {
+        row = row + '<th class="points-cell">';
+        row = row + dt.eventName;
+        row = row + '</th>';
+    });
+    row = row + '<th rowspan="2">Total</th>';
+    row = row + '</tr>';
+    $('#' + tableId).append(row);
+    var row = '<tr class="telerik-reTableHeaderRow-1">';
+    dates.forEach(function(dt) {
+        var date = new Date(dt.eventDate);
+        row = row + '<th class="points-cell">';
+        row = row + date.getDate() + '/' + (date.getMonth() + 1) + '/' + date.getFullYear();
+        row = row + '</th>';
+    });
+    row = row + '</tr>';
+    $('#' + tableId).append(row);
+    var fencers = [];
+    filteredResults.forEach(function(res) {
+        if (!fencers.some(function(a) {
+                return a.firstName == res.firstName && a.lastName == res.lastName;
+            })) {
+            fencers.push({
+                lastName: res.lastName,
+                firstName: res.firstName
+            })
+        }
+    });
+    var resultRows = [];
+    fencers.forEach(function(fencer) {
+        var compResults = filteredResults.filter(function(res) {
+            return res.firstName == fencer.firstName && res.lastName == fencer.lastName;
+        });
+        var result = {
+            name: fencer.firstName + ' ' + fencer.lastName,
+            club: '',
+            points: [],
+            totalPoints: 0
+        };
+        dates.forEach(function(dt) {
+            var compResult = compResults.filter(function(compRes) {
+                return compRes.eventDate == dt.eventDate;
+            });
+            result.club = compResult.length > 0 ? compResult[0].club : result.club;
+            if (compResult.length > 0) {
+                result.points.push(compResult[0].points)
+            } else {
+                result.points.push(0);
+            }
+        });
+        compResults = compResults.sort(function(a, b) {
+            return b.points - a.points;
+        });
+        for (var i = 0; i < 5 && i < compResults.length; i++) {
+            result.totalPoints += compResults[i].points;
+        }
+        resultRows.push(result);
+    });
+    resultRows = resultRows.sort(function(a, b) {
+        return b.totalPoints - a.totalPoints;
+    });
+    var rowIndex = 0;
+    var place = 0;
+    var previousPoints = -10;
+    resultRows.forEach(function(fencer) {
+        var row = '<tr class="' + (rowIndex % 2 == 0 ? 'telerik-reTableOddRow-1' : 'telerik-reTableEvenRow-1') + '">';
+        row = row + '<td>';
+        row = row + fencer.name;
+        row = row + '</td>';
+        row = row + '<td class="points-cell">';
+        row = row + fencer.club;
+        row = row + '</td>';
+        row = row + '<td class="points-cell">';
+        if (previousPoints != fencer.totalPoints) {
+            previousPoints = fencer.totalPoints;
+            place++;
+        }
+        row = row + place;
+        row = row + '</td>';
+        fencer.points.forEach(function(pt) {
+            row = row + '<td class="points-cell">';
+            row = row + (pt == 0 ? '' : pt);
+            row = row + '</td>';
+        });
+        row = row + '<td class="points-cell">';
+        row = row + fencer.totalPoints;
+        row = row + '</td>';
+        row = row + '</tr>';
+        $('#' + tableId).append(row);
+        rowIndex++;
+    });
+}
+$(function() {
+    $('#weaponSelect').change(weaponSelected);
+    $('#categorySelect').change(categorySelected);
+    var date = new Date();
+    var dateString = date.getFullYear() + date.getMonth() + date.getDate() + date.getHours() + date.getMinutes() + date.getSeconds() + date.getMilliseconds();
+    $.get('./FSARanking2021.xml?timestamp=' + dateString, {}, getSuccess);
+}) </script>
+
+<select id="weaponSelect">
+    <option value="Epee" selected="selected">Epee</option>
+    <option value = "Foil">Foil</option>
+    <option value="Sabre">Sabre</option>
+ </select>
+<select id="categorySelect" style="margin-left: 15px;"></select>
+<h1 id = "maleHeader"style = "padding-top: 20px;">Mens</h1>
+<table id="maleResults" class="resultTable telerik-reTable-1"></table>
+<h1 id = "femaleHeader"style = "padding-top: 20px;">Womens</h1>
+<table id="femaleResults" class="resultTable telerik-reTable-1"></table> 
+<style> 
+.resultTable {
+    overflow-x: auto;
+    display: block;
+}
+.resultTable.points-cell {
+    text-align: center;
+}.telerik-reTable-1 td, .telerik-reTable-1 th {
+    border-right: 1 px solid lightgrey;
+    vertical-align: middle;
+    padding: 0 3 px;
+}.telerik-reTable-1 td:last-of-type, .telerik-reTable-1 th:last-of-type {
+    border: none;
+}
+</style>
+<style id="telerik-reTable-1" type="text/css"> 
+    .telerik-reTable-1 { border-width: 0px; border-style: none; border-collapse: collapse; font-family: Tahoma; } 
+    .telerik-reTable-1 tr.telerik-reTableHeaderRow-1 { margin: 10px; padding: 10px; color: #3F4D6B; background: #D6E8FF; text-align: center; font-size: 10pt; font-style: normal; font-family: Tahoma; text-transform: capitalize; font-weight: bold; border-spacing: 10px; line-height: 14pt; vertical-align: top; } 
+    .telerik-reTableHeaderFirstCol-1 { padding: 0in 5.4pt 0in 5.4pt; color: #3a4663; line-height: 14pt; } 
+    .telerik-reTableHeaderLastCol-1 { padding: 0in 5.4pt 0in 5.4pt; color: #3a4663; line-height: 14pt; } 
+    .telerik-reTableHeaderOddCol-1 { padding: 0in 5.4pt 0in 5.4pt; color: #3a4663; line-height: 14pt; } 
+    .telerik-reTableHeaderEvenCol-1 { padding: 0in 5.4pt 0in 5.4pt; color: #3a4663; line-height: 14pt; } 
+    .telerik-reTable-1 tr.telerik-reTableOddRow-1 { color: #666666; background-color: #F2F3F4; font-size: 10pt; vertical-align: top; } 
+    .telerik-reTable-1 tr.telerik-reTableEvenRow-1 { color: #666666; background-color: #E7EBF7; font-size: 10pt; vertical-align: top; } 
+    .telerik-reTableFirstCol-1 { padding: 0in 5.4pt 0in 5.4pt; } 
+    .telerik-reTableLastCol-1 { padding: 0in 5.4pt 0in 5.4pt; } 
+    .telerik-reTableOddCol-1 { padding: 0in 5.4pt 0in 5.4pt; } 
+    .telerik-reTableEvenCol-1 { padding: 0in 5.4pt 0in 5.4pt; } 
+    .telerik-reTable-1 tr.telerik-reTableFooterRow-1 { background-color: #D6E8FF; color: #4A5A80; font-weight: 500; font-size: 10pt; font-family: Tahoma; line-height: 11pt; } .telerik-reTable-1 td width="57 " 
+    .telerik-reTableFooterFirstCol-1 { padding: 0in 5.4pt 0in 5.4pt; border-top: solid gray 1.0pt; text-align: center; } 
+    .telerik-reTableFooterLastCol-1 { padding: 0in 5.4pt 0in 5.4pt; border-top: solid gray 1.0pt; text-align: center; } 
+    .telerik-reTableFooterOddCol-1 { padding: 0in 5.4pt 0in 5.4pt; text-align: center; border-top: solid gray 1.0pt; } 
+    .telerik-reTableFooterEvenCol-1 { padding: 0in 5.4pt 0in 5.4pt; text-align: center; border-top: solid gray 1.0pt; }
+</style>
