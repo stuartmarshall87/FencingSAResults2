@@ -25,6 +25,7 @@ function getSuccess(xml) {
         var eventDate = $(rawResult).find('EventDate').text();
         var eventName = $(rawResult).find('EventName').text();
         var points = $(rawResult).find('Points').text();
+        var level = $(rawResult).find('Level').text();
         results.push({
             lastName: lastName,
             firstName: firstName,
@@ -34,7 +35,8 @@ function getSuccess(xml) {
             gender: gender,
             eventDate: eventDate,
             eventName: eventName,
-            points: parseInt(points)
+            level: level,
+            points: parseFloat(parseFloat(points).toFixed(1))
         });
     }
     results.forEach(function(value) {
@@ -105,7 +107,8 @@ function buildTable(tableId, filteredResults) {
             })) {
             dates.push({
                 eventDate: res.eventDate,
-                eventName: res.eventName
+                eventName: res.eventName,
+                level: res.level
             });
         }
     });
@@ -119,7 +122,7 @@ function buildTable(tableId, filteredResults) {
     row = row + '<th rowspan="2">Place</th>';
     dates.forEach(function(dt) {
         row = row + '<th class="points-cell">';
-        row = row + dt.eventName;
+        row = row + dt.eventName + ' (' + dt.level + ')';
         row = row + '</th>';
     });
     row = row + '<th rowspan="2">Total</th>';
