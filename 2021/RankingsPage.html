@@ -189,7 +189,7 @@ function buildTable(tableId, filteredResults) {
         row = row + '<td>';
         row = row + fencer.name;
         row = row + '</td>';
-        row = row + '<td class="points-cell">';
+        row = row + '<td>';
         row = row + fencer.club;
         row = row + '</td>';
         row = row + '<td class="points-cell">';
@@ -205,7 +205,7 @@ function buildTable(tableId, filteredResults) {
             row = row + '</td>';
         });
         row = row + '<td class="points-cell">';
-        row = row + fencer.totalPoints;
+        row = row + parseFloat(fencer.totalPoints.toFixed(1));
         row = row + '</td>';
         row = row + '</tr>';
         $('#' + tableId).append(row);
@@ -235,7 +235,7 @@ $(function() {
     overflow-x: auto;
     display: block;
 }
-.resultTable.points-cell {
+.resultTable .points-cell {
     text-align: center;
 }.telerik-reTable-1 td, .telerik-reTable-1 th {
     border-right: 1 px solid lightgrey;
