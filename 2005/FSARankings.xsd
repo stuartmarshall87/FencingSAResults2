@@ -1,0 +1,31 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="results">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="result" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="LastName"/>
+              <xs:element type="xs:string" name="FirstName"/>
+              <xs:element type="xs:string" name="Rank"/>
+              <xs:element name="EventDate" type="xs:dateTime">
+			    <xs:annotation>
+				  <xs:appinfo>
+					<xs:fieldProperty name="Format" type="10" value="dd/mm/yyyy"/>
+				  </xs:appinfo>
+			    </xs:annotation>
+			  </xs:element>
+              <xs:element type="xs:string" name="EventName"/>
+              <xs:element type="xs:string" name="AgeGroup"/>
+              <xs:element type="xs:string" name="Weapon"/>
+              <xs:element type="xs:string" name="Gender"/>
+              <xs:element type="xs:string" name="Club"/>
+              <xs:element type="xs:string" name="Named"/>
+              <xs:element type="xs:string" name="Points"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
