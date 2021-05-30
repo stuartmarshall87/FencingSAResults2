@@ -147,6 +147,10 @@ td
 	mso-pattern:#305496 none;}
 .xl79
 	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"d\/m\/yy\;\@";}
+.xl80
+	{mso-style-parent:style0;
 	font-size:8.0pt;
 	mso-number-format:"\[$-C09\]d\\ mmmm\\ yyyy\;\@";
 	text-align:center;}
