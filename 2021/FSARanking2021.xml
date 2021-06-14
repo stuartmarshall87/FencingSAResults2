@@ -234,7 +234,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
@@ -528,7 +528,7 @@
 		<AgeGroup>Veteran</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>0</Named>
 		<Points>9.2</Points>
 	</result>
@@ -3384,7 +3384,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>1</Named>
 		<Points>20</Points>
 	</result>
@@ -3608,7 +3608,7 @@
 		<AgeGroup>Veteran</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>0</Named>
 		<Points>1</Points>
 	</result>
@@ -3902,7 +3902,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>0</Named>
 		<Points>18</Points>
 	</result>
@@ -4210,7 +4210,7 @@
 		<AgeGroup>Veteran</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>0</Named>
 		<Points>1</Points>
 	</result>
@@ -4980,7 +4980,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>0</Named>
 		<Points>18</Points>
 	</result>
@@ -6646,7 +6646,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>AUFEC</Club>
+		<Club>AUFeC</Club>
 		<Named>1</Named>
 		<Points>20</Points>
 	</result>
@@ -6873,5 +6873,551 @@
 		<Club>ASC</Club>
 		<Named>0</Named>
 		<Points>2.4</Points>
+	</result>
+	<result>
+		<LastName>Dawson</LastName>
+		<FirstName>Jackie</FirstName>
+		<Rank>15</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>AHFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Nadine</FirstName>
+		<Rank>12</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Wotherspoon</LastName>
+		<FirstName>Alison</FirstName>
+		<Rank>20</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Zhdanovich</LastName>
+		<FirstName>Maria</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Chambers</LastName>
+		<FirstName>Oscar</FirstName>
+		<Rank>23</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Dzodzos</LastName>
+		<FirstName>Michael</FirstName>
+		<Rank>11</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Clayton</FirstName>
+		<Rank>7</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>16.8</Points>
+	</result>
+	<result>
+		<LastName>Wheeler</LastName>
+		<FirstName>Hugh</FirstName>
+		<Rank>24</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>TPFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Barchiesi</LastName>
+		<FirstName>Matteo</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Darren</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>26</Points>
+	</result>
+	<result>
+		<LastName>Spinks</LastName>
+		<FirstName>Dov</FirstName>
+		<Rank>7</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>AHFC</Club>
+		<Named>1</Named>
+		<Points>14</Points>
+	</result>
+	<result>
+		<LastName>Sollars</LastName>
+		<FirstName>Alan</FirstName>
+		<Rank>16</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>TPFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Kirby</LastName>
+		<FirstName>Maria</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Dawson</LastName>
+		<FirstName>Jackie</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>AHFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Nadine</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>26</Points>
+	</result>
+	<result>
+		<LastName>Sopru</LastName>
+		<FirstName>Coraine</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Wotherspoon</LastName>
+		<FirstName>Alison</FirstName>
+		<Rank>13</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>8</Points>
+	</result>
+	<result>
+		<LastName>Barchiesi</LastName>
+		<FirstName>Matteo</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Burgun</LastName>
+		<FirstName>Alexandre</FirstName>
+		<Rank>9</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Chandran</LastName>
+		<FirstName>Roshan</FirstName>
+		<Rank>11</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Darren</FirstName>
+		<Rank>28</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Lam</LastName>
+		<FirstName>Tai Yuen</FirstName>
+		<Rank>23</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>AHFC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Pattinson</LastName>
+		<FirstName>Angus</FirstName>
+		<Rank>29</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Spinks</LastName>
+		<FirstName>Dov</FirstName>
+		<Rank>21</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>AHFC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Kurbatfinski</LastName>
+		<FirstName>Ashleigh</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>14</Points>
+	</result>
+	<result>
+		<LastName>Barry</LastName>
+		<FirstName>Peter</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>AUFeC</Club>
+		<Named>1</Named>
+		<Points>26</Points>
+	</result>
+	<result>
+		<LastName>Wheeler</LastName>
+		<FirstName>Hugh</FirstName>
+		<Rank>7</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>TPFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Kirby</LastName>
+		<FirstName>Maria</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Qian</LastName>
+		<FirstName>Ying</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>AUFeC</Club>
+		<Named>1</Named>
+		<Points>20</Points>
+	</result>
+	<result>
+		<LastName>Sopru</LastName>
+		<FirstName>Coraine</FirstName>
+		<Rank>8</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Barratt</LastName>
+		<FirstName>Georgina</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>24</Points>
+	</result>
+	<result>
+		<LastName>Brown</LastName>
+		<FirstName>Sophie</FirstName>
+		<Rank>12</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Dippy</LastName>
+		<FirstName>Charlotte</FirstName>
+		<Rank>18</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Kurbatfinski</LastName>
+		<FirstName>Ashleigh</FirstName>
+		<Rank>10</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Qian</LastName>
+		<FirstName>Ying</FirstName>
+		<Rank>13</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>AUFeC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Kasperski</LastName>
+		<FirstName>Louis</FirstName>
+		<Rank>14</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Kinnon</LastName>
+		<FirstName>David</FirstName>
+		<Rank>13</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Kasperski</LastName>
+		<FirstName>Andrew</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Liptak</LastName>
+		<FirstName>Patrick</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
 	</result>
 </results>
