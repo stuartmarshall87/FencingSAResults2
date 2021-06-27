@@ -6875,16 +6875,16 @@
 		<Points>2.4</Points>
 	</result>
 	<result>
-		<LastName>Dawson</LastName>
-		<FirstName>Jackie</FirstName>
-		<Rank>15</Rank>
+		<LastName>Zhdanovich</LastName>
+		<FirstName>Maria</FirstName>
+		<Rank>3</Rank>
 		<EventDate>2021-06-12T00:00:00.000</EventDate>
 		<Level>N</Level>
 		<EventName>Robyn Chaplin</EventName>
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
-		<Club>AHFC</Club>
+		<Club>ASC</Club>
 		<Named>1</Named>
 		<Points>0</Points>
 	</result>
@@ -6903,6 +6903,20 @@
 		<Points>9.6</Points>
 	</result>
 	<result>
+		<LastName>Dawson</LastName>
+		<FirstName>Jackie</FirstName>
+		<Rank>15</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>AHFC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
 		<LastName>Wotherspoon</LastName>
 		<FirstName>Alison</FirstName>
 		<Rank>20</Rank>
@@ -6917,15 +6931,29 @@
 		<Points>4.8</Points>
 	</result>
 	<result>
-		<LastName>Zhdanovich</LastName>
-		<FirstName>Maria</FirstName>
-		<Rank>3</Rank>
+		<LastName>Ferguson</LastName>
+		<FirstName>Clayton</FirstName>
+		<Rank>7</Rank>
 		<EventDate>2021-06-12T00:00:00.000</EventDate>
 		<Level>N</Level>
 		<EventName>Robyn Chaplin</EventName>
 		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>16.8</Points>
+	</result>
+	<result>
+		<LastName>Dzodzos</LastName>
+		<FirstName>Michael</FirstName>
+		<Rank>11</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
 		<Club>ASC</Club>
 		<Named>1</Named>
 		<Points>0</Points>
@@ -6945,34 +6973,6 @@
 		<Points>0</Points>
 	</result>
 	<result>
-		<LastName>Dzodzos</LastName>
-		<FirstName>Michael</FirstName>
-		<Rank>11</Rank>
-		<EventDate>2021-06-12T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Clayton</FirstName>
-		<Rank>7</Rank>
-		<EventDate>2021-06-12T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>16.8</Points>
-	</result>
-	<result>
 		<LastName>Wheeler</LastName>
 		<FirstName>Hugh</FirstName>
 		<Rank>24</Rank>
@@ -6983,20 +6983,6 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>TPFC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
-		<LastName>Barchiesi</LastName>
-		<FirstName>Matteo</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-12T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
 		<Named>1</Named>
 		<Points>0</Points>
 	</result>
@@ -7013,6 +6999,20 @@
 		<Club>CSFC</Club>
 		<Named>1</Named>
 		<Points>26</Points>
+	</result>
+	<result>
+		<LastName>Barchiesi</LastName>
+		<FirstName>Matteo</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-12T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
 	</result>
 	<result>
 		<LastName>Spinks</LastName>
@@ -7043,18 +7043,18 @@
 		<Points>0</Points>
 	</result>
 	<result>
-		<LastName>Kirby</LastName>
-		<FirstName>Maria</FirstName>
-		<Rank>6</Rank>
+		<LastName>Ferguson</LastName>
+		<FirstName>Nadine</FirstName>
+		<Rank>2</Rank>
 		<EventDate>2021-06-12T00:00:00.000</EventDate>
 		<Level>N</Level>
 		<EventName>Robyn Chaplin</EventName>
 		<AgeGroup>Veteran</AgeGroup>
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
-		<Club>ASC</Club>
+		<Club>CSFC</Club>
 		<Named>1</Named>
-		<Points>0</Points>
+		<Points>26</Points>
 	</result>
 	<result>
 		<LastName>Dawson</LastName>
@@ -7071,23 +7071,23 @@
 		<Points>0</Points>
 	</result>
 	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Nadine</FirstName>
-		<Rank>2</Rank>
+		<LastName>Sopru</LastName>
+		<FirstName>Coraine</FirstName>
+		<Rank>3</Rank>
 		<EventDate>2021-06-12T00:00:00.000</EventDate>
 		<Level>N</Level>
 		<EventName>Robyn Chaplin</EventName>
 		<AgeGroup>Veteran</AgeGroup>
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
-		<Club>CSFC</Club>
+		<Club>ASC</Club>
 		<Named>1</Named>
-		<Points>26</Points>
+		<Points>0</Points>
 	</result>
 	<result>
-		<LastName>Sopru</LastName>
-		<FirstName>Coraine</FirstName>
-		<Rank>3</Rank>
+		<LastName>Kirby</LastName>
+		<FirstName>Maria</FirstName>
+		<Rank>6</Rank>
 		<EventDate>2021-06-12T00:00:00.000</EventDate>
 		<Level>N</Level>
 		<EventName>Robyn Chaplin</EventName>
@@ -7155,16 +7155,16 @@
 		<Points>9.6</Points>
 	</result>
 	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Darren</FirstName>
-		<Rank>28</Rank>
+		<LastName>Spinks</LastName>
+		<FirstName>Dov</FirstName>
+		<Rank>21</Rank>
 		<EventDate>2021-06-13T00:00:00.000</EventDate>
 		<Level>N</Level>
 		<EventName>Robyn Chaplin</EventName>
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
-		<Club>CSFC</Club>
+		<Club>AHFC</Club>
 		<Named>1</Named>
 		<Points>4.8</Points>
 	</result>
@@ -7183,6 +7183,20 @@
 		<Points>4.8</Points>
 	</result>
 	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Darren</FirstName>
+		<Rank>28</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
 		<LastName>Pattinson</LastName>
 		<FirstName>Angus</FirstName>
 		<Rank>29</Rank>
@@ -7193,20 +7207,6 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>4.8</Points>
-	</result>
-	<result>
-		<LastName>Spinks</LastName>
-		<FirstName>Dov</FirstName>
-		<Rank>21</Rank>
-		<EventDate>2021-06-13T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
 		<Named>1</Named>
 		<Points>4.8</Points>
 	</result>
@@ -7253,20 +7253,6 @@
 		<Points>0</Points>
 	</result>
 	<result>
-		<LastName>Kirby</LastName>
-		<FirstName>Maria</FirstName>
-		<Rank>6</Rank>
-		<EventDate>2021-06-13T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
 		<LastName>Qian</LastName>
 		<FirstName>Ying</FirstName>
 		<Rank>3</Rank>
@@ -7279,6 +7265,20 @@
 		<Club>AUFeC</Club>
 		<Named>1</Named>
 		<Points>20</Points>
+	</result>
+	<result>
+		<LastName>Kirby</LastName>
+		<FirstName>Maria</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2021-06-13T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
 	</result>
 	<result>
 		<LastName>Sopru</LastName>
@@ -7309,6 +7309,20 @@
 		<Points>24</Points>
 	</result>
 	<result>
+		<LastName>Kurbatfinski</LastName>
+		<FirstName>Ashleigh</FirstName>
+		<Rank>10</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
 		<LastName>Brown</LastName>
 		<FirstName>Sophie</FirstName>
 		<Rank>12</Rank>
@@ -7319,6 +7333,20 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Qian</LastName>
+		<FirstName>Ying</FirstName>
+		<Rank>13</Rank>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>AUFeC</Club>
 		<Named>1</Named>
 		<Points>9.6</Points>
 	</result>
@@ -7337,30 +7365,16 @@
 		<Points>0</Points>
 	</result>
 	<result>
-		<LastName>Kurbatfinski</LastName>
-		<FirstName>Ashleigh</FirstName>
-		<Rank>10</Rank>
-		<EventDate>2021-06-14T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
-		<LastName>Qian</LastName>
-		<FirstName>Ying</FirstName>
+		<LastName>Kinnon</LastName>
+		<FirstName>David</FirstName>
 		<Rank>13</Rank>
 		<EventDate>2021-06-14T00:00:00.000</EventDate>
 		<Level>N</Level>
 		<EventName>Robyn Chaplin</EventName>
 		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>AUFeC</Club>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
 		<Named>1</Named>
 		<Points>9.6</Points>
 	</result>
@@ -7379,34 +7393,6 @@
 		<Points>9.6</Points>
 	</result>
 	<result>
-		<LastName>Kinnon</LastName>
-		<FirstName>David</FirstName>
-		<Rank>13</Rank>
-		<EventDate>2021-06-14T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>9.6</Points>
-	</result>
-	<result>
-		<LastName>Kasperski</LastName>
-		<FirstName>Andrew</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-06-14T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>Robyn Chaplin</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
 		<LastName>Liptak</LastName>
 		<FirstName>Patrick</FirstName>
 		<Rank>3</Rank>
@@ -7421,452 +7407,18 @@
 		<Points>0</Points>
 	</result>
 	<result>
-		<LastName>Chandran</LastName>
-		<FirstName>Roshan</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Pattinson</LastName>
-		<FirstName>Angus</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Dal Moro Ferreira</LastName>
-		<FirstName>Isabela</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Chandran</LastName>
-		<FirstName>Roshan</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Pattinson</LastName>
-		<FirstName>Angus</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Dal Moro Ferreira</LastName>
-		<FirstName>Isabela</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
 		<LastName>Kasperski</LastName>
-		<FirstName>Louis</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Lee</LastName>
-		<FirstName>Ian</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Thomas</LastName>
-		<FirstName>Angus</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Kasperski</LastName>
-		<FirstName>Louis</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Lee</LastName>
-		<FirstName>Ian</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Thomas</LastName>
-		<FirstName>Angus</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Cowling</LastName>
-		<FirstName>Darcy</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>28</Points>
-	</result>
-	<result>
-		<LastName>Chambers</LastName>
-		<FirstName>Oscar</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>23</Points>
-	</result>
-	<result>
-		<LastName>Veaney</LastName>
-		<FirstName>Gabriel</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Vingelis-Plant</LastName>
-		<FirstName>Myka</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Taylor</LastName>
-		<FirstName>Henry</FirstName>
+		<FirstName>Andrew</FirstName>
 		<Rank>5</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
-	</result>
-	<result>
-		<LastName>Cowling</LastName>
-		<FirstName>Darcy</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>28</Points>
-	</result>
-	<result>
-		<LastName>Chambers</LastName>
-		<FirstName>Oscar</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>23</Points>
-	</result>
-	<result>
-		<LastName>Veaney</LastName>
-		<FirstName>Gabriel</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
+		<EventDate>2021-06-14T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>Robyn Chaplin</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Sabre</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Vingelis-Plant</LastName>
-		<FirstName>Myka</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Taylor</LastName>
-		<FirstName>Henry</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
-	</result>
-	<result>
-		<LastName>Brown</LastName>
-		<FirstName>Sophie</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>28</Points>
-	</result>
-	<result>
-		<LastName>Dippy</LastName>
-		<FirstName>Charlotte</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>23</Points>
-	</result>
-	<result>
-		<LastName>Bradfield</LastName>
-		<FirstName>Tyla-Rose</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Bugeja</LastName>
-		<FirstName>Hannah</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Jamieson</LastName>
-		<FirstName>Makayla</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U17</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
-	</result>
-	<result>
-		<LastName>Brown</LastName>
-		<FirstName>Sophie</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>28</Points>
-	</result>
-	<result>
-		<LastName>Dippy</LastName>
-		<FirstName>Charlotte</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>23</Points>
-	</result>
-	<result>
-		<LastName>Bradfield</LastName>
-		<FirstName>Tyla-Rose</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Bugeja</LastName>
-		<FirstName>Hannah</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
-	</result>
-	<result>
-		<LastName>Jamieson</LastName>
-		<FirstName>Makayla</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>U20</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
+		<Named>1</Named>
+		<Points>0</Points>
 	</result>
 	<result>
 		<LastName>Pattinson</LastName>
@@ -7911,20 +7463,6 @@
 		<Points>14.4</Points>
 	</result>
 	<result>
-		<LastName>Dal Moro Ferreira</LastName>
-		<FirstName>Isabela</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-06-27T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>FSA</EventName>
-		<AgeGroup>Open-B</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>7.2</Points>
-	</result>
-	<result>
 		<LastName>Sollars</LastName>
 		<FirstName>Alan</FirstName>
 		<Rank>5</Rank>
@@ -7937,6 +7475,20 @@
 		<Club>TPFC</Club>
 		<Named>0</Named>
 		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Dal Moro Ferreira</LastName>
+		<FirstName>Isabela</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open-B</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>7.2</Points>
 	</result>
 	<result>
 		<LastName>Wotherspoon</LastName>
@@ -8091,5 +7643,397 @@
 		<Club>CSFC</Club>
 		<Named>0</Named>
 		<Points>12</Points>
+	</result>
+	<result>
+		<LastName>Dal Moro Ferreira</LastName>
+		<FirstName>Isabela</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Cowling</LastName>
+		<FirstName>Darcy</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>AHFC</Club>
+		<Named>0</Named>
+		<Points>28</Points>
+	</result>
+	<result>
+		<LastName>Chambers</LastName>
+		<FirstName>Oscar</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>23</Points>
+	</result>
+	<result>
+		<LastName>Veaney</LastName>
+		<FirstName>Gabriel</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Vingelis-Plant</LastName>
+		<FirstName>Myka</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Taylor</LastName>
+		<FirstName>Henry</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
+	</result>
+	<result>
+		<LastName>Brown</LastName>
+		<FirstName>Sophie</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>28</Points>
+	</result>
+	<result>
+		<LastName>Dippy</LastName>
+		<FirstName>Charlotte</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>23</Points>
+	</result>
+	<result>
+		<LastName>Bradfield</LastName>
+		<FirstName>Tyla-Rose</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>AHFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Bugeja</LastName>
+		<FirstName>Hannah</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Jamieson</LastName>
+		<FirstName>Makayla</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
+	</result>
+	<result>
+		<LastName>Lee</LastName>
+		<FirstName>Ian</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Chandran</LastName>
+		<FirstName>Roshan</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Pattinson</LastName>
+		<FirstName>Angus</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Dal Moro Ferreira</LastName>
+		<FirstName>Isabela</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Cowling</LastName>
+		<FirstName>Darcy</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>AHFC</Club>
+		<Named>0</Named>
+		<Points>28</Points>
+	</result>
+	<result>
+		<LastName>Chambers</LastName>
+		<FirstName>Oscar</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>23</Points>
+	</result>
+	<result>
+		<LastName>Veaney</LastName>
+		<FirstName>Gabriel</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Vingelis-Plant</LastName>
+		<FirstName>Myka</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Taylor</LastName>
+		<FirstName>Henry</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
+	</result>
+	<result>
+		<LastName>Brown</LastName>
+		<FirstName>Sophie</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>28</Points>
+	</result>
+	<result>
+		<LastName>Dippy</LastName>
+		<FirstName>Charlotte</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>23</Points>
+	</result>
+	<result>
+		<LastName>Bradfield</LastName>
+		<FirstName>Tyla-Rose</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>AHFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Bugeja</LastName>
+		<FirstName>Hannah</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Jamieson</LastName>
+		<FirstName>Makayla</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
+	</result>
+	<result>
+		<LastName>Kasperski</LastName>
+		<FirstName>Louis</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Lee</LastName>
+		<FirstName>Ian</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Thomas</LastName>
+		<FirstName>Angus</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-06-27T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>1</Points>
 	</result>
 </results>
