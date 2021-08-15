@@ -719,7 +719,7 @@
 		<Date>20210815</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
@@ -728,7 +728,7 @@
 	</comp>
 	<comp>
 		<Date>20210815</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
@@ -739,7 +739,7 @@
 	</comp>
 	<comp>
 		<Date>20210815</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
@@ -763,7 +763,7 @@
 		<Date>20210815</Date>
 		<Cancelled>0</Cancelled>
 		<Category>V</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>E</Weapon>
@@ -773,6 +773,17 @@
 	<comp>
 		<Date>20210815</Date>
 		<Cancelled>0</Cancelled>
+		<Category>V</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20210815</Date>
+		<Cancelled>1</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
