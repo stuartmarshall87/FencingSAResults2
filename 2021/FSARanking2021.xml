@@ -7602,4 +7602,46 @@
 		<Named>1</Named>
 		<Points>14</Points>
 	</result>
+	<result>
+		<LastName>Kasperski</LastName>
+		<FirstName>Louis</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-09-12T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>State Champs</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Lee</LastName>
+		<FirstName>Ian</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-09-12T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>State Champs</EventName>
+		<AgeGroup>U20</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Lee</LastName>
+		<FirstName>Ian</FirstName>
+		<Rank>Cancelled</Rank>
+		<EventDate>2021-09-12T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>State Champs</EventName>
+		<AgeGroup>U17</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>1</Points>
+	</result>
 </results>
