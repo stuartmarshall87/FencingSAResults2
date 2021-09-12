@@ -727,7 +727,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210905</Date>
+		<Date>20210912</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
@@ -738,7 +738,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210905</Date>
+		<Date>20210912</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
@@ -749,8 +749,8 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210905</Date>
-		<Cancelled>0</Cancelled>
+		<Date>20210912</Date>
+		<Cancelled>1</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:45</Rollcall>
@@ -760,7 +760,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210905</Date>
+		<Date>20210912</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
@@ -771,10 +771,10 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210905</Date>
+		<Date>20210912</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>13:15</Rollcall>
 		<Time>13:30</Time>
 		<Weapon>E</Weapon>
@@ -782,10 +782,10 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210905</Date>
+		<Date>20210912</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
-		<SplitGender>1</SplitGender>
+		<SplitGender>0</SplitGender>
 		<Rollcall>13:15</Rollcall>
 		<Time>14:00</Time>
 		<Weapon>S</Weapon>
