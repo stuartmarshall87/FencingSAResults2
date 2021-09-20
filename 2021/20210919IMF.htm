@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ft="http://www.fencingtime.com">
+  <head>
+    <meta http-equiv="Content-Language" content="en-GB" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>FencingSA Schools Championship</title>
+    <style type="text/css">
+            body {
+                font-size:          .80em; 
+                font-family:        'Segoe UI', Arial, Helvetica, Verdana, sans-serif; 
+                margin:             16px; 
+                padding:            0px; 
+            }
+            .pageFooter {
+                margin-top:         4px;
+                color:              #222222;
+                text-align:         center;
+            }
+
+            .pageHeader {
+                background:         #4B6C9E;
+                margin-bottom:      8px;
+                color:              #F9F9F9;
+                font-variant:       small-caps;
+                text-align:         left;
+                padding:            8px;
+            }   
+            .tournName {   
+                font-size:          2em;
+                font-weight:        bold
+                line-height:        1.2em;
+            }
+            .tournDetails {
+                font-size:          1.2em;
+                margin-top:         4px;
+            }
+            .roundName
+            {
+                font-size:          1.8em;
+                color:              #444444;
+                font-variant:       small-caps;
+                text-transform:     none;
+                margin-bottom:      4px;
+            }
+
+            .dataTable {
+                border:             solid 1px tan;
+                border-collapse:    collapse;
+                font-size:          1em;
+                line-height:        1.5em;
+                width:              100%;
+                vertical-align:     top;
+                text-align:         left;
+                font-style:          normal;
+            }
+            .dataTable td {
+                padding:            3px;
+            }
+            .dataTableHeaderRow {
+                font-weight:        bold;
+                background:         tan;
+            }
+            .dataTableOddRow {
+                background:         #FAFAD2;
+            }
+            .dataTableEvenRow {
+                background:         #EEE8AA;
+            }
+            .dataTableExcludedRow {
+                background:         #333333;
+                color:              #FFFFFF;
+            }
+            .dataTableGoldResultRow {
+                background:         #FFD700;
+            }
+            .dataTableSilverResultRow {
+                background:         #888888;
+                color:              #FFFFFF;
+            }
+            .dataTableBronzeResultRow {
+                background:         #A67D3D;
+                color:              #FFFFFF;
+            }
+            
+          .poolNum {
+              font-size:            1.4em;
+              color:                #666666;
+              font-variant:         small-caps;
+              text-transform:       none;
+              margin-bottom:        0px;
+              font-family:          Tahoma, serif
+          } 
+          .pool { 
+              color:                #000000;
+              border:               solid 1px #D2B48C; 
+              border-collapse:      collapse;
+              font-size:            1em;
+              line-height:          1.5em;
+          }
+          .pool td {
+              padding:              1px 2px 1px 2px;
+              border-right:         solid 1px #D2B48C;
+              border-bottom:        solid 1px #D2B48C;
+              height:               40px;
+              font-style:            normal;
+          }
+          .poolHeader {
+              background-color:     #D2B48C; 
+              font-weight:          bold;
+          }
+          .poolHeader th {
+              font-weight:           bold;
+              text-align:           center;
+              vertical-align:       top;
+              font-style:            normal;
+          }
+          .poolOddRow {
+              background-color:     #FAFAD2;
+              vertical-align:       middle;
+          }
+          .poolEvenRow {
+              background-color:     #EEE8AA;
+              vertical-align:       middle;
+          }
+          .poolNameCol {
+              padding:              2px;
+              min-width:            256px;
+          }
+          .poolPosCol {
+              background-color:     #D2B48C; 
+              font-weight:          bold;
+              text-align:           center;
+              width:                15px;
+          }
+          .poolScoreCol {
+              min-width:            40px;
+              font-size:            1.3em;
+              text-align:            center;
+              vertical-align:        middle;
+              font-weight:          normal;
+          }
+          .poolSpacerCol {
+              background-color:     #D2B48C;
+              width:                10px;
+          } 
+          .poolResultCol {  
+              text-align:           center;
+              min-width:            40px;
+              font-size:            1.3em;
+          }
+          .poolScoreFill {
+              background-color:     #695A46;
+          } 
+          .poolWithdrawn { 
+              background-color:     #AAAAAA;
+          } 
+          .poolExcluded {
+              background-color:     #AAAAAA;
+          }
+          .poolScoreVictory { 
+              text-align:           center;
+              background-color:     #88FF88;
+          } 
+          .poolScoreDefeat { 
+              text-align:           center;
+              background-color:     #FF8888;
+          }
+          .poolRefsDiv {
+              margin-top:           4px;
+              color:                #0000FF;
+          }
+          .poolRefsHeader {
+              font-size:            1.0em;
+              font-weight:          bold;
+              font-variant:         small-caps;
+              font-family:          Tahoma, serif;
+              text-transform:       none;
+          }                         
+          .poolRefName {            
+              color:                #0000FF;
+          }
+            
+          .elimTableau {
+              color:                #000000;
+              background-color:     #FAFAD2;
+              border:               solid 1px #D2B48C; 
+              border-collapse:      collapse;
+              font-size:            1em;
+          } 
+          .elimTableu td {  
+            border-width:           0px;
+          } 
+          .tableauColumnTitle { 
+              text-align:           center;
+              font-weight:          bold;
+              background:           #D2B48C;
+              font-size:            1em;
+              line-height:          1.5em;
+          } 
+          .tableauBorderRight { 
+              border-right:         solid 2px #222222;
+          } 
+          .tableauBorderLeft {  
+              border-left:          solid 2px #222222;
+          }
+          .tableauBorderLeftRight {
+              border-left:          solid 2px #222222;
+              border-right:         solid 2px #222222;
+          }
+          .tableauBorderBottom {
+              border-bottom:        solid 2px #222222;
+              vertical-align:       bottom;
+          }
+          .tableauBorderBottomRight {
+              border-bottom:        solid 2px #222222;
+              border-right:         solid 2px #222222;
+              vertical-align:       bottom;
+          }
+          .tableauBorderBottomLeft {
+              border-bottom:        solid 2px #222222;
+              border-left:          solid 2px #222222;
+              vertical-align:       bottom;
+          }
+          .tableauBorderBottomLeftRight {
+              border-bottom:        solid 2px #222222;
+              border-left:          solid 2px #222222;
+              border-right:         solid 2px #222222;
+              vertical-align:       bottom;
+          }
+          .tableauNameCell {
+              font-size:            .85em;
+          }   
+          .tableauSeed {   
+              font-weight:          bold;
+              color:                #000000;
+          }   
+          .tableauCompName {   
+              font-weight:          bold;
+              color:                #0000FF;
+          }
+          .tableauCompAffil {
+              color:                #666666;
+              font-size:            0.8em;
+              vertical-align:       top;
+          }   
+          .tableauReferee {   
+              color:                #666666;
+              font-size:            0.8em;
+              vertical-align:       top;
+          }
+          
+          .tableauMatchDetailsLink a {
+              color:                black;
+              font-size:            0.8em;
+              font-variant:         small-caps;
+              text-decoration:      none;
+              font-weight:          bold
+          }
+          .teamMatch {
+              margin-top:           16px;
+          }
+          .teamMatchName {
+              font-size:            1.4em;
+              color:                #666666;
+              font-variant:         small-caps;
+              text-transform:       none;
+              margin-bottom:        0px;
+          }
+          .teamMatchNumCol {
+              border-right:         solid 1px #D2B48C;
+              text-align:           center;
+              width:                7%;
+          }
+           .teamMatchNameCol {
+              border-right:         solid 1px #D2B48C;
+              text-align:           center;
+              width:                30%;
+          } 
+          .teamMatchTouchesCol { 
+              border-right:         solid 1px #D2B48C;
+              text-align:           center;
+              width:                5%;
+          } 
+          .teamMatchScoreCol 
+          { 
+              border-right:         solid 1px #D2B48C;
+              text-align:           center;
+              width:                8%;
+          } 
+          .teamMatchRefs { 
+              margin-top:           4px;
+              color:                #0000FF;
+          }
+        </style>
+  </head>
+  <body>
+    <div class="pageHeader">
+      <span class="tournName">FencingSA Schools Championship</span>
+      <br />
+      <br />
+      <span class="tournDetails">FSA Intermediate Boys Foil Schools Championship<br />Sunday, 19 September 2021 - 12:30 PM</span>
+    </div>
+    <div>
+      <div class="roundName">Final Results</div>
+      <table class="dataTable" xmlns="">
+        <tr class="dataTableHeaderRow">
+          <th>Place</th>
+          <th>Name</th>
+          <th>Club(s)</th>
+          <th>Region</th>
+          <th>Country</th>
+        </tr>
+        <tr class="dataTableGoldResultRow">
+          <td>1</td>
+          <td>KEMPE Dougal</td>
+          <td>Scotch College </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableSilverResultRow">
+          <td>2</td>
+          <td>BAILES Hugo</td>
+          <td>Scotch College </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableBronzeResultRow">
+          <td>3T</td>
+          <td>TAYLOR Blake</td>
+          <td>Scotch College </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableBronzeResultRow">
+          <td>3T</td>
+          <td>ZHANG Xiao</td>
+          <td>Scotch College </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>5</td>
+          <td>MEDLYN Liam</td>
+          <td>Scotch College </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>6</td>
+          <td>DAWES Oscar</td>
+          <td>Charles Sturt Fencing Club / Cabra College </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>7</td>
+          <td>DOYLE Flynn</td>
+          <td> </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>8</td>
+          <td>BRAMMER Hugo</td>
+          <td>Adelaide Swords Club </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>9</td>
+          <td>ANDERSON Kinyin</td>
+          <td>Adelaide Hills Fencing Club / Trinity Gardens Primary School </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>10</td>
+          <td>LEE Xavier</td>
+          <td>Charles Sturt Fencing Club / Westbourne Park Primary School </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>11</td>
+          <td>NGO Edward</td>
+          <td>Adelaide Swords Club </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>12</td>
+          <td>CASEY Max</td>
+          <td>Scotch College </td>
+          <td>SA </td>
+          <td>AUS </td>
+        </tr>
+      </table>
+    </div>
+    <br />
+    <br />
+    <div>
+      <div class="roundName">Round #1 - Poule - Round Seeding</div>
+      <table class="dataTable" xmlns="">
+        <tr class="dataTableHeaderRow">
+          <th>Seed</th>
+          <th>Name</th>
+          <th>Club(s)</th>
+          <th>Region</th>
+          <th>Country</th>
+          <th>Status</th>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>1</td>
+          <td>DOYLE Flynn</td>
+          <td> </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>2</td>
+          <td>ZHANG Xiao</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>3</td>
+          <td>KEMPE Dougal</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>4</td>
+          <td>CASEY Max</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>5</td>
+          <td>MEDLYN Liam</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>6</td>
+          <td>BAILES Hugo</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>7</td>
+          <td>BRAMMER Hugo</td>
+          <td>ASC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>8</td>
+          <td>LEE Xavier</td>
+          <td>CSFC / WPPS </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>9</td>
+          <td>ANDERSON Kinyin</td>
+          <td>AHFC / TGPS </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>10</td>
+          <td>DAWES Oscar</td>
+          <td>CSFC / CC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>11</td>
+          <td>NGO Edward</td>
+          <td>ASC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>12</td>
+          <td>TAYLOR Blake</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td />
+        </tr>
+      </table>
+      <br />
+      <div class="roundName">Round #1 - Poule - Scores</div>
+      <div class="poolNum" xmlns="">Poule #1</div>
+      <table class="pool" xmlns="">
+        <tr class="poolHeader">
+          <th />
+          <th>#</th>
+          <th>1</th>
+          <th>2</th>
+          <th>3</th>
+          <th>4</th>
+          <th />
+          <th>V</th>
+          <th>V/M</th>
+          <th>HS</th>
+          <th>HR</th>
+          <th>Ind</th>
+        </tr>
+        <tr class="poolOddRow">
+          <td class="poolNameCol">TAYLOR Blake<br /><span class="poolAffil">SC / SA / AUS</span></td>
+          <td class="poolPosCol">1</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreDefeat poolScoreCol">D1</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">2</td>
+          <td class="poolResultCol">0.67</td>
+          <td class="poolResultCol">11</td>
+          <td class="poolResultCol">8</td>
+          <td class="poolResultCol">+3</td>
+        </tr>
+        <tr class="poolEvenRow">
+          <td class="poolNameCol">BRAMMER Hugo<br /><span class="poolAffil">ASC / SA / AUS</span></td>
+          <td class="poolPosCol">2</td>
+          <td class="poolScoreDefeat poolScoreCol">D3</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreDefeat poolScoreCol">D4</td>
+          <td class="poolScoreDefeat poolScoreCol">D1</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">0</td>
+          <td class="poolResultCol">0.00</td>
+          <td class="poolResultCol">8</td>
+          <td class="poolResultCol">15</td>
+          <td class="poolResultCol">-7</td>
+        </tr>
+        <tr class="poolOddRow">
+          <td class="poolNameCol">DOYLE Flynn<br /><span class="poolAffil">SA / AUS</span></td>
+          <td class="poolPosCol">3</td>
+          <td class="poolScoreDefeat poolScoreCol">D0</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreDefeat poolScoreCol">D2</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">1</td>
+          <td class="poolResultCol">0.33</td>
+          <td class="poolResultCol">7</td>
+          <td class="poolResultCol">14</td>
+          <td class="poolResultCol">-7</td>
+        </tr>
+        <tr class="poolEvenRow">
+          <td class="poolNameCol">BAILES Hugo<br /><span class="poolAffil">SC / SA / AUS</span></td>
+          <td class="poolPosCol">4</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">3</td>
+          <td class="poolResultCol">1.00</td>
+          <td class="poolResultCol">15</td>
+          <td class="poolResultCol">4</td>
+          <td class="poolResultCol">+11</td>
+        </tr>
+      </table>
+      <div class="poolRefsDiv" xmlns="">
+        <span class="poolRefsHeader">Referee(s):</span>
+        <br />
+        <span class="poolRefName">LAM Tai Yuen (Erwin)</span>
+        <br />
+        <span class="poolAffil">AHFC / SA / AUS</span>
+        <br />
+      </div>
+      <br />
+      <div class="poolNum" xmlns="">Poule #2</div>
+      <table class="pool" xmlns="">
+        <tr class="poolHeader">
+          <th />
+          <th>#</th>
+          <th>1</th>
+          <th>2</th>
+          <th>3</th>
+          <th>4</th>
+          <th />
+          <th>V</th>
+          <th>V/M</th>
+          <th>HS</th>
+          <th>HR</th>
+          <th>Ind</th>
+        </tr>
+        <tr class="poolOddRow">
+          <td class="poolNameCol">MEDLYN Liam<br /><span class="poolAffil">SC / SA / AUS</span></td>
+          <td class="poolPosCol">1</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreDefeat poolScoreCol">D1</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">2</td>
+          <td class="poolResultCol">0.67</td>
+          <td class="poolResultCol">11</td>
+          <td class="poolResultCol">8</td>
+          <td class="poolResultCol">+3</td>
+        </tr>
+        <tr class="poolEvenRow">
+          <td class="poolNameCol">NGO Edward<br /><span class="poolAffil">ASC / SA / AUS</span></td>
+          <td class="poolPosCol">2</td>
+          <td class="poolScoreDefeat poolScoreCol">D3</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreDefeat poolScoreCol">D4</td>
+          <td class="poolScoreDefeat poolScoreCol">D1</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">0</td>
+          <td class="poolResultCol">0.00</td>
+          <td class="poolResultCol">8</td>
+          <td class="poolResultCol">15</td>
+          <td class="poolResultCol">-7</td>
+        </tr>
+        <tr class="poolOddRow">
+          <td class="poolNameCol">LEE Xavier<br /><span class="poolAffil">CSFC / SA / AUS</span></td>
+          <td class="poolPosCol">3</td>
+          <td class="poolScoreDefeat poolScoreCol">D0</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreDefeat poolScoreCol">D2</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">1</td>
+          <td class="poolResultCol">0.33</td>
+          <td class="poolResultCol">7</td>
+          <td class="poolResultCol">14</td>
+          <td class="poolResultCol">-7</td>
+        </tr>
+        <tr class="poolEvenRow">
+          <td class="poolNameCol">ZHANG Xiao<br /><span class="poolAffil">SC / SA / AUS</span></td>
+          <td class="poolPosCol">4</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">3</td>
+          <td class="poolResultCol">1.00</td>
+          <td class="poolResultCol">15</td>
+          <td class="poolResultCol">4</td>
+          <td class="poolResultCol">+11</td>
+        </tr>
+      </table>
+      <div class="poolRefsDiv" xmlns="">
+        <span class="poolRefsHeader">Referee(s):</span>
+        <br />
+        <span class="poolRefName">CHANDRAN Nalin</span>
+        <br />
+        <span class="poolAffil">NSW / AUS</span>
+        <br />
+      </div>
+      <br />
+      <div class="poolNum" xmlns="">Poule #3</div>
+      <table class="pool" xmlns="">
+        <tr class="poolHeader">
+          <th />
+          <th>#</th>
+          <th>1</th>
+          <th>2</th>
+          <th>3</th>
+          <th>4</th>
+          <th />
+          <th>V</th>
+          <th>V/M</th>
+          <th>HS</th>
+          <th>HR</th>
+          <th>Ind</th>
+        </tr>
+        <tr class="poolOddRow">
+          <td class="poolNameCol">CASEY Max<br /><span class="poolAffil">SC / SA / AUS</span></td>
+          <td class="poolPosCol">1</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreDefeat poolScoreCol">D3</td>
+          <td class="poolScoreDefeat poolScoreCol">D2</td>
+          <td class="poolScoreDefeat poolScoreCol">D1</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">0</td>
+          <td class="poolResultCol">0.00</td>
+          <td class="poolResultCol">6</td>
+          <td class="poolResultCol">15</td>
+          <td class="poolResultCol">-9</td>
+        </tr>
+        <tr class="poolEvenRow">
+          <td class="poolNameCol">DAWES Oscar<br /><span class="poolAffil">CSFC / SA / AUS</span></td>
+          <td class="poolPosCol">2</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreDefeat poolScoreCol">D0</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">2</td>
+          <td class="poolResultCol">0.67</td>
+          <td class="poolResultCol">10</td>
+          <td class="poolResultCol">10</td>
+          <td class="poolResultCol">0</td>
+        </tr>
+        <tr class="poolOddRow">
+          <td class="poolNameCol">ANDERSON Kinyin<br /><span class="poolAffil">AHFC / SA / AUS</span></td>
+          <td class="poolPosCol">3</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreDefeat poolScoreCol">D2</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolScoreDefeat poolScoreCol">D0</td>
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">1</td>
+          <td class="poolResultCol">0.33</td>
+          <td class="poolResultCol">7</td>
+          <td class="poolResultCol">12</td>
+          <td class="poolResultCol">-5</td>
+        </tr>
+        <tr class="poolEvenRow">
+          <td class="poolNameCol">KEMPE Dougal<br /><span class="poolAffil">SC / SA / AUS</span></td>
+          <td class="poolPosCol">4</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreVictory poolScoreCol">V5</td>
+          <td class="poolScoreFill poolScoreCol" />
+          <td class="poolSpacerCol" />
+          <td class="poolResultCol">3</td>
+          <td class="poolResultCol">1.00</td>
+          <td class="poolResultCol">15</td>
+          <td class="poolResultCol">1</td>
+          <td class="poolResultCol">+14</td>
+        </tr>
+      </table>
+      <div class="poolRefsDiv" xmlns="">
+        <span class="poolRefsHeader">Referee(s):</span>
+        <br />
+        <span class="poolRefName">ALDERSON Benjamin (Ben)</span>
+        <br />
+        <span class="poolAffil">SA / AUS</span>
+        <br />
+      </div>
+      <br />
+    </div>
+    <br />
+    <br />
+    <div>
+      <div class="roundName">Round #2 - DE - Round Seeding</div>
+      <table class="dataTable" xmlns="">
+        <tr class="dataTableHeaderRow">
+          <th>Seed</th>
+          <th>Name</th>
+          <th>Club(s)</th>
+          <th>Region</th>
+          <th>Country</th>
+          <th>V</th>
+          <th>V/M</th>
+          <th>HS</th>
+          <th>HR</th>
+          <th>Ind</th>
+          <th>Status</th>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>1</td>
+          <td>KEMPE Dougal</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>3 </td>
+          <td>1.00 </td>
+          <td>15 </td>
+          <td>1 </td>
+          <td>+14 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>2T</td>
+          <td>BAILES Hugo</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>3 </td>
+          <td>1.00 </td>
+          <td>15 </td>
+          <td>4 </td>
+          <td>+11 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>2T</td>
+          <td>ZHANG Xiao</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>3 </td>
+          <td>1.00 </td>
+          <td>15 </td>
+          <td>4 </td>
+          <td>+11 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>4T</td>
+          <td>MEDLYN Liam</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>2 </td>
+          <td>0.67 </td>
+          <td>11 </td>
+          <td>8 </td>
+          <td>+3 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>4T</td>
+          <td>TAYLOR Blake</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>2 </td>
+          <td>0.67 </td>
+          <td>11 </td>
+          <td>8 </td>
+          <td>+3 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>6</td>
+          <td>DAWES Oscar</td>
+          <td>CSFC / CC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>2 </td>
+          <td>0.67 </td>
+          <td>10 </td>
+          <td>10 </td>
+          <td>0 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>7</td>
+          <td>ANDERSON Kinyin</td>
+          <td>AHFC / TGPS </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>1 </td>
+          <td>0.33 </td>
+          <td>7 </td>
+          <td>12 </td>
+          <td>-5 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>8T</td>
+          <td>LEE Xavier</td>
+          <td>CSFC / WPPS </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>1 </td>
+          <td>0.33 </td>
+          <td>7 </td>
+          <td>14 </td>
+          <td>-7 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>8T</td>
+          <td>DOYLE Flynn</td>
+          <td> </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>1 </td>
+          <td>0.33 </td>
+          <td>7 </td>
+          <td>14 </td>
+          <td>-7 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>10T</td>
+          <td>BRAMMER Hugo</td>
+          <td>ASC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>0 </td>
+          <td>0.00 </td>
+          <td>8 </td>
+          <td>15 </td>
+          <td>-7 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableOddRow">
+          <td>10T</td>
+          <td>NGO Edward</td>
+          <td>ASC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>0 </td>
+          <td>0.00 </td>
+          <td>8 </td>
+          <td>15 </td>
+          <td>-7 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+        <tr class="dataTableEvenRow">
+          <td>12</td>
+          <td>CASEY Max</td>
+          <td>SC </td>
+          <td>SA </td>
+          <td>AUS </td>
+          <td>0 </td>
+          <td>0.00 </td>
+          <td>6 </td>
+          <td>15 </td>
+          <td>-9 </td>
+          <td>
+            <span class="statusAdvanced">Advanced</span>
+          </td>
+        </tr>
+      </table>
+      <br />
+      <div class="roundName">Round #2 - DE - Scores</div>
+      <div xmlns="">
+        <table class="elimTableau" style="width: 100%;">
+          <col style="width: 20%; max-width:200px;" />
+          <col style="width: 20%; max-width:200px;" />
+          <col style="width: 20%; max-width:200px;" />
+          <col style="width: 20%; max-width:200px;" />
+          <col style="width: 20%; max-width:200px;" />
+          <tr>
+            <td class="tableauColumnTitle">Table of 16</td>
+            <td class="tableauColumnTitle">Table of 8</td>
+            <td class="tableauColumnTitle">Semi-Finals</td>
+            <td class="tableauColumnTitle">Finals</td>
+            <td class="tableauColumnTitle"> </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(1) </span>
+              <span class="tableauCompName">KEMPE Dougal</span> </td>
+            <td />
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil">SC / SA / AUS</span> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(1) </span>
+              <span class="tableauCompName">KEMPE Dougal</span> </td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(16) </span>
+              <span class="tableauCompName">-BYE-</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(1) </span>
+              <span class="tableauCompName">KEMPE Dougal</span> </td>
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(9) </span>
+              <span class="tableauCompName">LEE Xavier</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauBorderRight">15 - 13<br /><span class="tableauReferee">Ref: 
+        LAM Tai Yuen (Erwin)
+           (AUS)
+        </span> </td>
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil">CSFC / SA / AUS</span> </td>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(8) </span>
+              <span class="tableauCompName">DOYLE Flynn</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(8) </span>
+              <span class="tableauCompName">DOYLE Flynn</span> </td>
+            <td>15 - 5<br /><span class="tableauReferee">Ref: 
+        LAM Tai Yuen (Erwin)
+           (AUS)
+        </span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+            <td />
+          </tr>
+          <tr>
+            <td>
+              <span class="tableauCompAffil">SA / AUS</span> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(1) </span>
+              <span class="tableauCompName">KEMPE Dougal</span> </td>
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(5) </span>
+              <span class="tableauCompName">MEDLYN Liam</span> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauBorderRight">15 - 7<br /><span class="tableauReferee">Ref: 
+        LAM Tai Yuen (Erwin)
+           (AUS)
+        </span> </td>
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil">SC / SA / AUS</span> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(5) </span>
+              <span class="tableauCompName">MEDLYN Liam</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(12) </span>
+              <span class="tableauCompName">CASEY Max</span> </td>
+            <td class="tableauBorderRight">15 - 12<br /><span class="tableauReferee">Ref: 
+        LAM Tai Yuen (Erwin)
+           (AUS)
+        </span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+          </tr>
+          <tr>
+            <td>
+              <span class="tableauCompAffil">SC / SA / AUS</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(4) </span>
+              <span class="tableauCompName">TAYLOR Blake</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(13) </span>
+              <span class="tableauCompName">-BYE-</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td>15 - 6<br /><span class="tableauReferee">Ref: 
+        LAM Tai Yuen (Erwin)
+           (AUS)
+        </span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil" /> </td>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(4) </span>
+              <span class="tableauCompName">TAYLOR Blake</span> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td />
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(4) </span>
+              <span class="tableauCompName">TAYLOR Blake</span> </td>
+            <td> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td />
+          </tr>
+          <tr>
+            <td>
+              <span class="tableauCompAffil">SC / SA / AUS</span> </td>
+            <td />
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(1) </span>
+              <span class="tableauCompName">KEMPE Dougal</span> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(3) </span>
+              <span class="tableauCompName">BAILES Hugo</span> </td>
+            <td />
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td>15 - 10<br /><span class="tableauReferee">Ref: 
+        FERGUSON Clayton
+           (AUS)
+        </span> </td>
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil">SC / SA / AUS</span> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(3) </span>
+              <span class="tableauCompName">BAILES Hugo</span> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(14) </span>
+              <span class="tableauCompName">-BYE-</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(3) </span>
+              <span class="tableauCompName">BAILES Hugo</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(11) </span>
+              <span class="tableauCompName">NGO Edward</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauBorderRight">15 - 3<br /><span class="tableauReferee">Ref: 
+        FERGUSON Clayton
+           (AUS)
+        </span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil">ASC / SA / AUS</span> </td>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(6) </span>
+              <span class="tableauCompName">DAWES Oscar</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauBorderRight"> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(6) </span>
+              <span class="tableauCompName">DAWES Oscar</span> </td>
+            <td>15 - 14<br /><span class="tableauReferee">Ref: 
+        CHANDRAN Nalin
+           (AUS)
+        </span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauBorderRight"> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="tableauCompAffil">CSFC / SA / AUS</span> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(2) </span>
+              <span class="tableauCompName">BAILES Hugo</span> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(7) </span>
+              <span class="tableauCompName">ANDERSON Kinyin</span> </td>
+            <td />
+            <td class="tableauBorderRight"> </td>
+            <td>15 - 3<br /><span class="tableauReferee">Ref: 
+        FERGUSON Clayton
+           (AUS)
+        </span> </td>
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil">AHFC / SA / AUS</span> </td>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(7) </span>
+              <span class="tableauCompName">BRAMMER Hugo</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(10) </span>
+              <span class="tableauCompName">BRAMMER Hugo</span> </td>
+            <td class="tableauBorderRight">15 - 13<br /><span class="tableauReferee">Ref: 
+        CHANDRAN Nalin
+           (AUS)
+        </span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td />
+            <td> </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="tableauCompAffil">ASC / SA / AUS</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(2) </span>
+              <span class="tableauCompName">ZHANG Xiao</span> </td>
+            <td />
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottom">
+              <span class="tableauSeed">(15) </span>
+              <span class="tableauCompName">-BYE-</span> </td>
+            <td class="tableauBorderRight"> </td>
+            <td>15 - 9<br /><span class="tableauReferee">Ref: 
+        FERGUSON Clayton
+           (AUS)
+        </span> </td>
+            <td />
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauBorderRight">
+              <span class="tableauCompAffil" /> </td>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(2) </span>
+              <span class="tableauCompName">ZHANG Xiao</span> </td>
+            <td />
+            <td />
+            <td> </td>
+          </tr>
+          <tr>
+            <td class="tableauNameCell tableauBorderBottomRight">
+              <span class="tableauSeed">(2) </span>
+              <span class="tableauCompName">ZHANG Xiao</span> </td>
+            <td> </td>
+            <td />
+            <td />
+            <td> </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="tableauCompAffil">SC / SA / AUS</span> </td>
+            <td />
+            <td />
+            <td />
+            <td> </td>
+          </tr>
+        </table>
+        <br />
+        <p />
+      </div>
+    </div>
+    <div class="pageFooter">Results generated by Fencing Time v4.5 Tournament Software<br /><a href="http://www.fencingtime.com">www.FencingTime.com</a><br />
+          Copyright © 2018 by Fencing Time, LLC
+        </div>
+  </body>
+</html>

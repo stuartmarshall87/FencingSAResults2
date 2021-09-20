@@ -805,7 +805,7 @@
 	</comp>
 	<comp>
 		<Date>20210919</Date>
-		<Cancelled>0</Cancelled>
+		<Cancelled>1</Cancelled>
 		<Category>U17</Category>
 		<SplitGender>0</SplitGender>
 		<Rollcall>10:15</Rollcall>
@@ -818,7 +818,7 @@
 		<Date>20210919</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U15</Category>
-		<SplitGender>0</SplitGender>
+		<SplitGender>1</SplitGender>
 		<Rollcall>10:15</Rollcall>
 		<Time>10:30</Time>
 		<Weapon>F</Weapon>
