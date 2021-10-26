@@ -6731,7 +6731,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>16.8</Points>
 	</result>
 	<result>
@@ -6745,7 +6745,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>13.8</Points>
 	</result>
 	<result>
@@ -6759,7 +6759,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>10.8</Points>
 	</result>
 	<result>
@@ -6773,7 +6773,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>11.2</Points>
 	</result>
 	<result>
@@ -6787,7 +6787,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>9.2</Points>
 	</result>
 	<result>
@@ -6801,7 +6801,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>22.4</Points>
 	</result>
 	<result>
@@ -6815,7 +6815,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18.4</Points>
 	</result>
 	<result>
@@ -6829,7 +6829,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -6843,7 +6843,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -6857,7 +6857,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>16.8</Points>
 	</result>
 	<result>
@@ -6871,7 +6871,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>13.8</Points>
 	</result>
 	<result>
@@ -6885,7 +6885,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>10.8</Points>
 	</result>
 	<result>
@@ -6899,7 +6899,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>16.8</Points>
 	</result>
 	<result>
@@ -6913,7 +6913,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>13.8</Points>
 	</result>
 	<result>
@@ -6927,7 +6927,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>10.8</Points>
 	</result>
 	<result>
@@ -6941,7 +6941,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>28</Points>
 	</result>
 	<result>
@@ -6955,7 +6955,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>23</Points>
 	</result>
 	<result>
@@ -6969,7 +6969,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -6983,7 +6983,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -6997,7 +6997,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7011,7 +7011,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7025,7 +7025,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>22.4</Points>
 	</result>
 	<result>
@@ -7039,7 +7039,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18.4</Points>
 	</result>
 	<result>
@@ -7053,7 +7053,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -7067,7 +7067,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -7081,7 +7081,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>11.2</Points>
 	</result>
 	<result>
@@ -7095,7 +7095,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>9.2</Points>
 	</result>
 	<result>
@@ -7109,7 +7109,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>28</Points>
 	</result>
 	<result>
@@ -7123,7 +7123,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>23</Points>
 	</result>
 	<result>
@@ -7137,7 +7137,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7151,7 +7151,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7165,7 +7165,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7179,7 +7179,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7193,7 +7193,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7207,7 +7207,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>22.4</Points>
 	</result>
 	<result>
@@ -7221,7 +7221,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18.4</Points>
 	</result>
 	<result>
@@ -7235,7 +7235,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -7249,7 +7249,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
