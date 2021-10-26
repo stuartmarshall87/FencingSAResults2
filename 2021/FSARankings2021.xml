@@ -6492,7 +6492,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club>IND</Club>
+		<Club>QLD</Club>
 		<Named>1</Named>
 		<Points>14</Points>
 	</result>
@@ -6632,7 +6632,7 @@
 		<AgeGroup>Veteran</AgeGroup>
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
-		<Club>IND</Club>
+		<Club>QLD</Club>
 		<Named>1</Named>
 		<Points>16</Points>
 	</result>
@@ -6731,8 +6731,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>16.8</Points>
+		<Named>1</Named>
+		<Points>19.2</Points>
 	</result>
 	<result>
 		<LastName>Vingelis-Plant</LastName>
@@ -6745,8 +6745,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>13.8</Points>
+		<Named>1</Named>
+		<Points>15.6</Points>
 	</result>
 	<result>
 		<LastName>Rendo</LastName>
@@ -6759,8 +6759,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>10.8</Points>
+		<Named>1</Named>
+		<Points>12</Points>
 	</result>
 	<result>
 		<LastName>Vingelis-Plant</LastName>
@@ -6773,8 +6773,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>11.2</Points>
+		<Named>1</Named>
+		<Points>12.8</Points>
 	</result>
 	<result>
 		<LastName>Rendo</LastName>
@@ -6787,8 +6787,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>9.2</Points>
+		<Named>1</Named>
+		<Points>10.4</Points>
 	</result>
 	<result>
 		<LastName>Brown</LastName>
@@ -6801,8 +6801,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>22.4</Points>
+		<Named>1</Named>
+		<Points>25.6</Points>
 	</result>
 	<result>
 		<LastName>Dippy</LastName>
@@ -6815,8 +6815,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>18.4</Points>
+		<Named>1</Named>
+		<Points>20.8</Points>
 	</result>
 	<result>
 		<LastName>Bradfield</LastName>
@@ -6829,8 +6829,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>14.4</Points>
+		<Named>1</Named>
+		<Points>16</Points>
 	</result>
 	<result>
 		<LastName>Bugeja</LastName>
@@ -6843,8 +6843,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>14.4</Points>
+		<Named>1</Named>
+		<Points>16</Points>
 	</result>
 	<result>
 		<LastName>Dippy</LastName>
@@ -6857,8 +6857,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>16.8</Points>
+		<Named>1</Named>
+		<Points>19.2</Points>
 	</result>
 	<result>
 		<LastName>Bradfield</LastName>
@@ -6871,8 +6871,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>13.8</Points>
+		<Named>1</Named>
+		<Points>15.6</Points>
 	</result>
 	<result>
 		<LastName>Bugeja</LastName>
@@ -6885,8 +6885,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>10.8</Points>
+		<Named>1</Named>
+		<Points>12</Points>
 	</result>
 	<result>
 		<LastName>Ferguson</LastName>
@@ -6899,8 +6899,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>16.8</Points>
+		<Named>1</Named>
+		<Points>19.2</Points>
 	</result>
 	<result>
 		<LastName>Vingelis-Plant</LastName>
@@ -6913,8 +6913,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>13.8</Points>
+		<Named>1</Named>
+		<Points>15.6</Points>
 	</result>
 	<result>
 		<LastName>Rendo</LastName>
@@ -6927,8 +6927,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>10.8</Points>
+		<Named>1</Named>
+		<Points>12</Points>
 	</result>
 	<result>
 		<LastName>Ferguson</LastName>
@@ -6941,8 +6941,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>28</Points>
+		<Named>1</Named>
+		<Points>32</Points>
 	</result>
 	<result>
 		<LastName>Brown</LastName>
@@ -6955,8 +6955,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>23</Points>
+		<Named>1</Named>
+		<Points>26</Points>
 	</result>
 	<result>
 		<LastName>Bradfield</LastName>
@@ -6969,8 +6969,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
+		<Named>1</Named>
+		<Points>20</Points>
 	</result>
 	<result>
 		<LastName>Dippy</LastName>
@@ -6983,8 +6983,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
+		<Named>1</Named>
+		<Points>20</Points>
 	</result>
 	<result>
 		<LastName>Bugeja</LastName>
@@ -6997,8 +6997,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
+		<Named>1</Named>
+		<Points>14</Points>
 	</result>
 	<result>
 		<LastName>Pearce</LastName>
@@ -7011,8 +7011,8 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
+		<Named>1</Named>
+		<Points>14</Points>
 	</result>
 	<result>
 		<LastName>Chandran</LastName>
@@ -7025,8 +7025,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>22.4</Points>
+		<Named>1</Named>
+		<Points>25.6</Points>
 	</result>
 	<result>
 		<LastName>Kingston</LastName>
@@ -7039,8 +7039,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>18.4</Points>
+		<Named>1</Named>
+		<Points>20.8</Points>
 	</result>
 	<result>
 		<LastName>Yu</LastName>
@@ -7053,8 +7053,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>14.4</Points>
+		<Named>1</Named>
+		<Points>16</Points>
 	</result>
 	<result>
 		<LastName>Spinks</LastName>
@@ -7067,8 +7067,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>14.4</Points>
+		<Named>1</Named>
+		<Points>16</Points>
 	</result>
 	<result>
 		<LastName>Kingston</LastName>
@@ -7081,8 +7081,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>11.2</Points>
+		<Named>1</Named>
+		<Points>12.8</Points>
 	</result>
 	<result>
 		<LastName>Spinks</LastName>
@@ -7095,8 +7095,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>9.2</Points>
+		<Named>1</Named>
+		<Points>10.4</Points>
 	</result>
 	<result>
 		<LastName>Lam</LastName>
@@ -7109,8 +7109,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>28</Points>
+		<Named>1</Named>
+		<Points>32</Points>
 	</result>
 	<result>
 		<LastName>Yu</LastName>
@@ -7123,8 +7123,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>23</Points>
+		<Named>1</Named>
+		<Points>26</Points>
 	</result>
 	<result>
 		<LastName>Newitt</LastName>
@@ -7137,8 +7137,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
+		<Named>1</Named>
+		<Points>20</Points>
 	</result>
 	<result>
 		<LastName>Kennedy</LastName>
@@ -7151,8 +7151,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>18</Points>
+		<Named>1</Named>
+		<Points>20</Points>
 	</result>
 	<result>
 		<LastName>Spinks</LastName>
@@ -7165,8 +7165,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
+		<Named>1</Named>
+		<Points>14</Points>
 	</result>
 	<result>
 		<LastName>Stewart</LastName>
@@ -7179,8 +7179,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
+		<Named>1</Named>
+		<Points>14</Points>
 	</result>
 	<result>
 		<LastName>Kingston</LastName>
@@ -7193,8 +7193,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>12</Points>
+		<Named>1</Named>
+		<Points>14</Points>
 	</result>
 	<result>
 		<LastName>Dal Moro Ferreira</LastName>
@@ -7207,8 +7207,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>22.4</Points>
+		<Named>1</Named>
+		<Points>25.6</Points>
 	</result>
 	<result>
 		<LastName>Lucy</LastName>
@@ -7221,8 +7221,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>18.4</Points>
+		<Named>1</Named>
+		<Points>20.8</Points>
 	</result>
 	<result>
 		<LastName>Pearce</LastName>
@@ -7235,8 +7235,8 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named>0</Named>
-		<Points>14.4</Points>
+		<Named>1</Named>
+		<Points>16</Points>
 	</result>
 	<result>
 		<LastName>Wotherspoon</LastName>
@@ -7249,7 +7249,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named>0</Named>
-		<Points>14.4</Points>
+		<Named>1</Named>
+		<Points>16</Points>
 	</result>
 </results>
