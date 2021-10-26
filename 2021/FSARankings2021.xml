@@ -7252,18 +7252,4 @@
 		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
-	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
-	</result>
 </results>
