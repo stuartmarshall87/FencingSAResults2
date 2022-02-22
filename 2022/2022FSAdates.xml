@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <days>
 	<comp>
-		<Date>20210228</Date>
+		<Date>20220227</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
@@ -12,10 +12,10 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210228</Date>
+		<Date>20220227</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
-		<SplitGender>0</SplitGender>
+		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>S</Weapon>
@@ -23,8 +23,8 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210228</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220227</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
@@ -34,7 +34,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210228</Date>
+		<Date>20220227</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
@@ -45,18 +45,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210228</Date>
-		<Cancelled>0</Cancelled>
-		<Category>V</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210228</Date>
+		<Date>20220227</Date>
 		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
@@ -67,62 +56,40 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210228</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20210227</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
 		<Weapon>S</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210314</Date>
+		<Date>20220327</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220327</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U13</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:15</Rollcall>
+		<Time>10:30</Time>
 		<Weapon>E</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210314</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210314</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210314</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210314</Date>
+		<Date>20220327</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U11</Category>
 		<SplitGender>1</SplitGender>
@@ -133,21 +100,10 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210314</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210314</Date>
+		<Date>20220327</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U13</Category>
-		<SplitGender>0</SplitGender>
+		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
@@ -155,20 +111,9 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210314</Date>
+		<Date>20220327</Date>
 		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>13:30</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210314</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
+		<Category>U11</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:15</Rollcall>
 		<Time>13:30</Time>
@@ -177,95 +122,40 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210321</Date>
+		<Date>20220327</Date>
 		<Cancelled>0</Cancelled>
-		<Category>O</Category>
+		<Category>U15</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
+		<Rollcall>13:45</Rollcall>
+		<Time>14:00</Time>
 		<Weapon>E</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210321</Date>
-		<Cancelled>0</Cancelled>
-		<Category>O</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>11:15</Rollcall>
-		<Time>11:30</Time>
-		<Weapon>S</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210321</Date>
-		<Cancelled>0</Cancelled>
-		<Category>O</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>11:15</Rollcall>
-		<Time>11:30</Time>
-		<Weapon>S</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210321</Date>
-		<Cancelled>1</Cancelled>
-		<Category>V</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>11:15</Rollcall>
-		<Time>11:30</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210321</Date>
-		<Cancelled>0</Cancelled>
-		<Category>O</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210321</Date>
-		<Cancelled>0</Cancelled>
-		<Category>V</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210321</Date>
-		<Cancelled>1</Cancelled>
-		<Category>V</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>S</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210502</Date>
+		<Date>20220410</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>09:45</Rollcall>
+		<Rollcall>9:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210502</Date>
+		<Date>20220410</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>9:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>S</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220410</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
@@ -276,7 +166,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210502</Date>
+		<Date>20220410</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
@@ -287,7 +177,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210502</Date>
+		<Date>20220410</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
@@ -298,7 +188,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210502</Date>
+		<Date>20220410</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
@@ -309,194 +199,18 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210502</Date>
+		<Date>20220410</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
+		<Rollcall>13:45</Rollcall>
 		<Time>14:00</Time>
 		<Weapon>S</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210516</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U13</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210516</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210516</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210516</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210516</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210516</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U13</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210516</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U13</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210516</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>13:30</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U1720</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U1720</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U1720</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>11:45</Rollcall>
-		<Time>12:00</Time>
-		<Weapon>S</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U1720</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>13:30</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210523</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>14:00</Time>
-		<Weapon>S</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210530</Date>
+		<Date>20220515</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
@@ -507,18 +221,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210530</Date>
-		<Cancelled>0</Cancelled>
-		<Category>O</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>11:15</Rollcall>
-		<Time>11:30</Time>
-		<Weapon>S</Weapon>
-		<Name>MC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210530</Date>
+		<Date>20220515</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
@@ -529,8 +232,8 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210530</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220515</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
@@ -540,7 +243,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210530</Date>
+		<Date>20220515</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
@@ -551,10 +254,10 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210530</Date>
+		<Date>20220515</Date>
 		<Cancelled>0</Cancelled>
 		<Category>V</Category>
-		<SplitGender>0</SplitGender>
+		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>E</Weapon>
@@ -562,20 +265,20 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210530</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220515</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
 		<Weapon>S</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210627</Date>
+		<Date>20220529</Date>
 		<Cancelled>0</Cancelled>
-		<Category>U1720</Category>
+		<Category>U13T</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
@@ -584,10 +287,32 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210627</Date>
+		<Date>20220529</Date>
 		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>0</SplitGender>
+		<Category>U13T</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220529</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U17T</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>11:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220529</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U17T</Category>
+		<SplitGender>1</SplitGender>
 		<Rollcall>10:45</Rollcall>
 		<Time>11:00</Time>
 		<Weapon>E</Weapon>
@@ -595,8 +320,140 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210627</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220529</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OT</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220529</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OT</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220619</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220619</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U9</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220619</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U13</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:15</Rollcall>
+		<Time>10:30</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220619</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U11</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>11:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220619</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U13</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220619</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U11</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220619</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>13:45</Rollcall>
+		<Time>14:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220626</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U1720</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>9:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220626</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>9:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>S</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220626</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OB</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>11:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220626</Date>
+		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:45</Rollcall>
@@ -606,7 +463,7 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210627</Date>
+		<Date>20220626</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
@@ -617,8 +474,8 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210627</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220626</Date>
+		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:15</Rollcall>
@@ -628,20 +485,20 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210627</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220626</Date>
+		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
+		<Rollcall>13:45</Rollcall>
 		<Time>14:00</Time>
 		<Weapon>S</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210801</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U13</Category>
+		<Date>20220807</Date>
+		<Cancelled>0</Cancelled>
+		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
@@ -650,8 +507,63 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210801</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220807</Date>
+		<Cancelled>0</Cancelled>
+		<Category>O</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>11:15</Rollcall>
+		<Time>11:30</Time>
+		<Weapon>S</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220807</Date>
+		<Cancelled>0</Cancelled>
+		<Category>V</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>11:15</Rollcall>
+		<Time>11:30</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220807</Date>
+		<Cancelled>0</Cancelled>
+		<Category>O</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220807</Date>
+		<Cancelled>0</Cancelled>
+		<Category>V</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220807</Date>
+		<Cancelled>0</Cancelled>
+		<Category>V</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
+		<Weapon>S</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220821</Date>
+		<Cancelled>0</Cancelled>
 		<Category>U15</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
@@ -661,8 +573,19 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210801</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220821</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U13</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:15</Rollcall>
+		<Time>10:30</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220821</Date>
+		<Cancelled>0</Cancelled>
 		<Category>U11</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>10:45</Rollcall>
@@ -672,19 +595,8 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210801</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210801</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20220821</Date>
+		<Cancelled>0</Cancelled>
 		<Category>U13</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
@@ -694,9 +606,9 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210801</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U15</Category>
+		<Date>20220821</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U11</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>13:15</Rollcall>
 		<Time>13:30</Time>
@@ -705,73 +617,95 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210815</Date>
+		<Date>20220821</Date>
 		<Cancelled>0</Cancelled>
-		<Category>O</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:45</Rollcall>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>13:45</Rollcall>
+		<Time>14:00</Time>
+		<Weapon>E</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220911</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U1720</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>9:45</Rollcall>
 		<Time>10:00</Time>
-		<Weapon>E</Weapon>
-		<Name>BK</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210815</Date>
-		<Cancelled>1</Cancelled>
-		<Category>O</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>11:15</Rollcall>
-		<Time>11:30</Time>
-		<Weapon>S</Weapon>
-		<Name>MC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210815</Date>
-		<Cancelled>1</Cancelled>
-		<Category>V</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>11:15</Rollcall>
-		<Time>11:30</Time>
 		<Weapon>F</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210815</Date>
+		<Date>20220911</Date>
 		<Cancelled>0</Cancelled>
-		<Category>O</Category>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>9:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>S</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220911</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OB</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>11:00</Time>
+		<Weapon>E</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220911</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U1720</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>11:45</Rollcall>
+		<Time>12:00</Time>
+		<Weapon>S</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20220911</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
-		<Name>KBT</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210815</Date>
+		<Date>20220911</Date>
 		<Cancelled>0</Cancelled>
-		<Category>V</Category>
+		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
 		<Weapon>E</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210815</Date>
-		<Cancelled>1</Cancelled>
-		<Category>V</Category>
+		<Date>20220911</Date>
+		<Cancelled>0</Cancelled>
+		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
+		<Rollcall>13:45</Rollcall>
+		<Time>14:00</Time>
 		<Weapon>S</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210822</Date>
+		<Date>20220918</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U17</Category>
 		<SplitGender>1</SplitGender>
@@ -782,172 +716,139 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210912</Date>
+		<Date>20220918</Date>
 		<Cancelled>0</Cancelled>
-		<Category>U1720</Category>
+		<Category>U17</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
-		<Weapon>F</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210912</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
 		<Weapon>E</Weapon>
-		<Name>SC</Name>
+		<Name>SASchools</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20210912</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U1720</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>11:45</Rollcall>
-		<Time>12:00</Time>
-		<Weapon>S</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210912</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>13:30</Time>
-		<Weapon>F</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210912</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U1720</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>13:30</Time>
-		<Weapon>E</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210912</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OB</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>14:00</Time>
-		<Weapon>S</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20210919</Date>
+		<Date>20220918</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U17T</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
 		<Weapon>F</Weapon>
 		<Name>SASchools</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211017</Date>
+		<Date>20220918</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U17T</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
+		<Weapon>E</Weapon>
+		<Name>SASchools</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20221016</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
-		<Name>SC</Name>
+		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211017</Date>
+		<Date>20221016</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
-		<SplitGender>0</SplitGender>
+		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>S</Weapon>
-		<Name>SC</Name>
+		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211017</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221016</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>F</Weapon>
-		<Name>SC</Name>
+		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211017</Date>
+		<Date>20221016</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
-		<Name>SC</Name>
+		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211017</Date>
+		<Date>20221016</Date>
 		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>E</Weapon>
-		<Name>SC</Name>
+		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211017</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221016</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
 		<Weapon>S</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20211024</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U1720</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>F</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211024</Date>
+		<Date>20221023</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>09:45</Rollcall>
+		<Rollcall>9:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211024</Date>
+		<Date>20221023</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>9:45</Rollcall>
+		<Time>10:00</Time>
+		<Weapon>S</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20221023</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U13T</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:15</Rollcall>
+		<Time>10:30</Time>
+		<Weapon>F</Weapon>
+		<Name>FSA</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20221023</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
@@ -958,8 +859,8 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211024</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221023</Date>
+		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:45</Rollcall>
@@ -969,21 +870,21 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211024</Date>
+		<Date>20221023</Date>
 		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
-		<Time>13:30</Time>
+		<Rollcall>12:45</Rollcall>
+		<Time>13:00</Time>
 		<Weapon>F</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211024</Date>
+		<Date>20221023</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U1720</Category>
-		<SplitGender>0</SplitGender>
+		<SplitGender>1</SplitGender>
 		<Rollcall>13:15</Rollcall>
 		<Time>13:30</Time>
 		<Weapon>E</Weapon>
@@ -991,29 +892,18 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211024</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221023</Date>
+		<Cancelled>0</Cancelled>
 		<Category>OB</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>13:15</Rollcall>
+		<Rollcall>13:45</Rollcall>
 		<Time>14:00</Time>
 		<Weapon>S</Weapon>
 		<Name>FSA</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211107</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U13</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:45</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>E</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20211107</Date>
+		<Date>20221106</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U15</Category>
 		<SplitGender>1</SplitGender>
@@ -1024,62 +914,40 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211107</Date>
+		<Date>20221106</Date>
 		<Cancelled>0</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
+		<Category>U9</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>09:45</Rollcall>
+		<Time>10:00</Time>
 		<Weapon>F</Weapon>
 		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211107</Date>
+		<Date>20221106</Date>
 		<Cancelled>0</Cancelled>
-		<Category>U11</Category>
+		<Category>U13</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>10:45</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>F</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20211107</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>12:00</Rollcall>
-		<Time>11:45</Time>
-		<Weapon>S</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20211107</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>1</SplitGender>
-		<Rollcall>12:00</Rollcall>
-		<Time>11:45</Time>
-		<Weapon>S</Weapon>
-		<Name>SC</Name>
-		<Link/>
-	</comp>
-	<comp>
-		<Date>20211107</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U11</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
+		<Rollcall>10:15</Rollcall>
+		<Time>10:30</Time>
 		<Weapon>E</Weapon>
 		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211107</Date>
+		<Date>20221106</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U11</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>10:45</Rollcall>
+		<Time>11:00</Time>
+		<Weapon>F</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20221106</Date>
 		<Cancelled>0</Cancelled>
 		<Category>U13</Category>
 		<SplitGender>1</SplitGender>
@@ -1090,10 +958,10 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211107</Date>
+		<Date>20221106</Date>
 		<Cancelled>0</Cancelled>
-		<Category>U15</Category>
-		<SplitGender>0</SplitGender>
+		<Category>U11</Category>
+		<SplitGender>1</SplitGender>
 		<Rollcall>13:15</Rollcall>
 		<Time>13:30</Time>
 		<Weapon>E</Weapon>
@@ -1101,135 +969,267 @@
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211121</Date>
+		<Date>20221106</Date>
+		<Cancelled>0</Cancelled>
+		<Category>U15</Category>
+		<SplitGender>1</SplitGender>
+		<Rollcall>13:45</Rollcall>
+		<Time>14:00</Time>
+		<Weapon>E</Weapon>
+		<Name>SC</Name>
+		<Link/>
+	</comp>
+	<comp>
+		<Date>20221113</Date>
 		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>09:45</Rollcall>
 		<Time>10:00</Time>
 		<Weapon>E</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211121</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221113</Date>
+		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>S</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211121</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221113</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>11:15</Rollcall>
 		<Time>11:30</Time>
 		<Weapon>F</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211121</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221113</Date>
+		<Cancelled>0</Cancelled>
 		<Category>O</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>F</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211121</Date>
+		<Date>20221113</Date>
 		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
 		<Rollcall>12:45</Rollcall>
 		<Time>13:00</Time>
 		<Weapon>E</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211121</Date>
-		<Cancelled>1</Cancelled>
+		<Date>20221113</Date>
+		<Cancelled>0</Cancelled>
 		<Category>V</Category>
 		<SplitGender>1</SplitGender>
-		<Rollcall>12:45</Rollcall>
-		<Time>13:00</Time>
+		<Rollcall>13:15</Rollcall>
+		<Time>13:30</Time>
 		<Weapon>S</Weapon>
-		<Name>FSA</Name>
+		<Name>SC</Name>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211128</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U13T</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:30</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211128</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U13T</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>09:30</Rollcall>
-		<Time>10:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211128</Date>
-		<Cancelled>1</Cancelled>
-		<Category>U17T</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>10:30</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211128</Date>
-		<Cancelled>0</Cancelled>
-		<Category>U17T</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>10:30</Rollcall>
-		<Time>11:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211128</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OT</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>12:30</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>E</Weapon>
-		<Name>FSA</Name>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
 		<Link/>
 	</comp>
 	<comp>
-		<Date>20211128</Date>
-		<Cancelled>0</Cancelled>
-		<Category>OT</Category>
-		<SplitGender>0</SplitGender>
-		<Rollcall>12:30</Rollcall>
-		<Time>13:00</Time>
-		<Weapon>F</Weapon>
-		<Name>FSA</Name>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
+		<Link/>
+	</comp>
+	<comp>
+		<Date/>
+		<Cancelled/>
+		<Category/>
+		<SplitGender/>
+		<Rollcall/>
+		<Time/>
+		<Weapon/>
+		<Name/>
 		<Link/>
 	</comp>
 </days>
