@@ -81,6 +81,8 @@ function getCategoryString(category){
             break;
         case "ot": categoryString = 'Open Teams';
             break;
+        case "u9": categoryString = 'U9';
+            break;
         case "u11": categoryString = 'U11';
             break;
         case "u13": categoryString = 'U13';
