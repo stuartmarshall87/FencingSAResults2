@@ -219,6 +219,9 @@ function getCompName(name, gender){
         case "amg":
             nameString = 'Australian Masters Games';
             break;
+        case 'saschools':
+            nameString = 'SA Schools Championships';
+            break;
     }
     return nameString;
 }
