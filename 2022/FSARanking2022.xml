@@ -1,146 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <results>
 	<result>
-		<LastName>Barchiesi</LastName>
-		<FirstName>Matteo</FirstName>
-		<Rank>12</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
-		<LastName>Chandran</LastName>
-		<FirstName>Roshan</FirstName>
-		<Rank>15</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>11.2</Points>
-	</result>
-	<result>
-		<LastName>Zhdanovich</LastName>
-		<FirstName>Maria</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
-		<LastName>Wotherspoon</LastName>
-		<FirstName>Alison</FirstName>
-		<Rank>28</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>4.8</Points>
-	</result>
-	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Clayton</FirstName>
-		<Rank>10</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>11.2</Points>
-	</result>
-	<result>
-		<LastName>Dzodzos</LastName>
-		<FirstName>Michael</FirstName>
-		<Rank>14</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
-		<LastName>Barratt</LastName>
-		<FirstName>Georgina</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>31.2</Points>
-	</result>
-	<result>
-		<LastName>Barchiesi</LastName>
-		<FirstName>Matteo</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
-		<LastName>Wotherspoon</LastName>
-		<FirstName>Alison</FirstName>
-		<Rank>10</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>8</Points>
-	</result>
-	<result>
-		<LastName>Liptak</LastName>
-		<FirstName>Patrick</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-05-03T00:00:00.000</EventDate>
-		<Level>N</Level>
-		<EventName>AFC1</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>0</Points>
-	</result>
-	<result>
 		<LastName>Vingelis-Plant</LastName>
 		<FirstName>Arky</FirstName>
 		<Rank>1</Rank>
@@ -7263,7 +7123,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>28</Points>
 	</result>
 	<result>
@@ -7277,7 +7137,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>23</Points>
 	</result>
 	<result>
@@ -7291,7 +7151,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7305,7 +7165,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7319,7 +7179,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7333,7 +7193,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7347,7 +7207,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>16.8</Points>
 	</result>
 	<result>
@@ -7361,7 +7221,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>13.8</Points>
 	</result>
 	<result>
@@ -7375,7 +7235,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>10.8</Points>
 	</result>
 	<result>
@@ -7389,7 +7249,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>28</Points>
 	</result>
 	<result>
@@ -7403,7 +7263,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>23</Points>
 	</result>
 	<result>
@@ -7417,7 +7277,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7431,7 +7291,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7445,7 +7305,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7459,7 +7319,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7473,7 +7333,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7487,7 +7347,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7501,7 +7361,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>28</Points>
 	</result>
 	<result>
@@ -7515,7 +7375,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>23</Points>
 	</result>
 	<result>
@@ -7529,7 +7389,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7543,7 +7403,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7557,7 +7417,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7571,7 +7431,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>22.4</Points>
 	</result>
 	<result>
@@ -7585,7 +7445,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18.4</Points>
 	</result>
 	<result>
@@ -7599,7 +7459,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -7613,7 +7473,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -7627,7 +7487,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>2.4</Points>
 	</result>
 	<result>
@@ -7641,7 +7501,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>11.2</Points>
 	</result>
 	<result>
@@ -7655,7 +7515,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>13.8</Points>
 	</result>
 	<result>
@@ -7669,7 +7529,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>7.2</Points>
 	</result>
 	<result>
@@ -7683,7 +7543,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>7.2</Points>
 	</result>
 	<result>
@@ -7697,7 +7557,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>7.2</Points>
 	</result>
 	<result>
@@ -7711,7 +7571,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>5.6</Points>
 	</result>
 	<result>
@@ -7725,7 +7585,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>13.8</Points>
 	</result>
 	<result>
@@ -7739,7 +7599,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>10.8</Points>
 	</result>
 	<result>
@@ -7753,7 +7613,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>7.2</Points>
 	</result>
 	<result>
@@ -7767,7 +7627,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>28</Points>
 	</result>
 	<result>
@@ -7781,7 +7641,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>23</Points>
 	</result>
 	<result>
@@ -7795,7 +7655,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7809,7 +7669,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7823,7 +7683,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7837,7 +7697,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>22.4</Points>
 	</result>
 	<result>
@@ -7851,7 +7711,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18.4</Points>
 	</result>
 	<result>
@@ -7865,7 +7725,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -7879,7 +7739,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -7893,7 +7753,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>28</Points>
 	</result>
 	<result>
@@ -7907,7 +7767,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>23</Points>
 	</result>
 	<result>
@@ -7921,7 +7781,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7935,7 +7795,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18</Points>
 	</result>
 	<result>
@@ -7949,7 +7809,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>12</Points>
 	</result>
 	<result>
@@ -7963,7 +7823,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>22.4</Points>
 	</result>
 	<result>
@@ -7977,7 +7837,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>18.4</Points>
 	</result>
 	<result>
@@ -7991,7 +7851,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -8005,7 +7865,7 @@
 		<Weapon>Foil</Weapon>
 		<Gender>Women</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>14.4</Points>
 	</result>
 	<result>
@@ -8019,7 +7879,7 @@
 		<Weapon>Sabre</Weapon>
 		<Gender>Men</Gender>
 		<Club/>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
 	</result>
 	<result>
@@ -8033,7 +7893,7 @@
 		<Weapon>Sabre</Weapon>
 		<Gender>Men</Gender>
 		<Club>TPFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
 	</result>
 	<result>
@@ -8047,7 +7907,7 @@
 		<Weapon>Sabre</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
 	</result>
 	<result>
@@ -8061,7 +7921,7 @@
 		<Weapon>Sabre</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
 	</result>
 	<result>
@@ -8075,7 +7935,7 @@
 		<Weapon>Sabre</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
 	</result>
 	<result>
@@ -8089,7 +7949,7 @@
 		<Weapon>Sabre</Weapon>
 		<Gender>Men</Gender>
 		<Club>CSFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
 	</result>
 	<result>
@@ -8103,7 +7963,7 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>ASC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
 	</result>
 	<result>
@@ -8117,8 +7977,554 @@
 		<Weapon>Epee</Weapon>
 		<Gender>Men</Gender>
 		<Club>AHFC</Club>
-		<Named/>
+		<Named>0</Named>
 		<Points>1</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Nadine</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>24</Points>
+	</result>
+	<result>
+		<LastName>Lucy</LastName>
+		<FirstName>Sarah</FirstName>
+		<Rank>8</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>16.8</Points>
+	</result>
+	<result>
+		<LastName>Sopru</LastName>
+		<FirstName>Coraine</FirstName>
+		<Rank>15</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>9.6</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Darren</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>31.2</Points>
+	</result>
+	<result>
+		<LastName>Barratt</LastName>
+		<FirstName>Georgina</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>16.8</Points>
+	</result>
+	<result>
+		<LastName>Brown</LastName>
+		<FirstName>Sophie</FirstName>
+		<Rank>23</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Bugeja</LastName>
+		<FirstName>Hannah</FirstName>
+		<Rank>24</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Zhdanovich</LastName>
+		<FirstName>Maria</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Aistrope</LastName>
+		<FirstName>Rachel</FirstName>
+		<Rank>18</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Nadine</FirstName>
+		<Rank>22</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>5.6</Points>
+	</result>
+	<result>
+		<LastName>Sopru</LastName>
+		<FirstName>Coraine</FirstName>
+		<Rank>27</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Dzodzos</LastName>
+		<FirstName>Michael</FirstName>
+		<Rank>32</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Chandran</LastName>
+		<FirstName>Roshan</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>19.6</Points>
+	</result>
+	<result>
+		<LastName>Burgun</LastName>
+		<FirstName>Alexandre</FirstName>
+		<Rank>8</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>19.6</Points>
+	</result>
+	<result>
+		<LastName>Bury</LastName>
+		<FirstName>Connor</FirstName>
+		<Rank>21</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Darren</FirstName>
+		<Rank>36</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>1</Named>
+		<Points>2.8</Points>
+	</result>
+	<result>
+		<LastName>Newitt</LastName>
+		<FirstName>Jesse</FirstName>
+		<Rank>50</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>2.8</Points>
+	</result>
+	<result>
+		<LastName>Sopru</LastName>
+		<FirstName>Coraine</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-05-02T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 2</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Sabre</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
 	</result>
 	<result>
 		<LastName/>
