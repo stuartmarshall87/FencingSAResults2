@@ -2,664 +2,6 @@
 <results>
 	<result>
 		<LastName>Chandran</LastName>
-		<FirstName>Roshan</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>32</Points>
-	</result>
-	<result>
-		<LastName>Lam</LastName>
-		<FirstName>Tai Yuen</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
-		<Named>1</Named>
-		<Points>26</Points>
-	</result>
-	<result>
-		<LastName>Burgun</LastName>
-		<FirstName>Alexandre</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Marshall</LastName>
-		<FirstName>Stuart</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Darren</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Scully</LastName>
-		<FirstName>Mark</FirstName>
-		<Rank>6</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>IND</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Spinks</LastName>
-		<FirstName>Dov</FirstName>
-		<Rank>7</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Yu</LastName>
-		<FirstName>Jerry</FirstName>
-		<Rank>8</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Vingelis-Plant</LastName>
-		<FirstName>Keith</FirstName>
-		<Rank>9</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>8</Points>
-	</result>
-	<result>
-		<LastName>Newitt</LastName>
-		<FirstName>Jesse</FirstName>
-		<Rank>10</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>8</Points>
-	</result>
-	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Nadine</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>32</Points>
-	</result>
-	<result>
-		<LastName>Lucy</LastName>
-		<FirstName>Sarah</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>26</Points>
-	</result>
-	<result>
-		<LastName>Dawson</LastName>
-		<FirstName>Jackie</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>AHFC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Dal Moro Ferreira</LastName>
-		<FirstName>Isabela</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Walmsley</LastName>
-		<FirstName>Amelia</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Sopru</LastName>
-		<FirstName>Coraine</FirstName>
-		<Rank>6</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Wotherspoon</LastName>
-		<FirstName>Alison</FirstName>
-		<Rank>7</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Wells</LastName>
-		<FirstName>Samuel</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>25.6</Points>
-	</result>
-	<result>
-		<LastName>Lee</LastName>
-		<FirstName>Ian</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>20.8</Points>
-	</result>
-	<result>
-		<LastName>Moorhouse</LastName>
-		<FirstName>Alexandra</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>8</Points>
-	</result>
-	<result>
-		<LastName>Lam</LastName>
-		<FirstName>Tai Yuen</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
-		<Named>1</Named>
-		<Points>16</Points>
-	</result>
-	<result>
-		<LastName>Hamilton</LastName>
-		<FirstName>Rhona</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Women</Gender>
-		<Club>AUFeC</Club>
-		<Named>1</Named>
-		<Points>5.6</Points>
-	</result>
-	<result>
-		<LastName>Kasperski</LastName>
-		<FirstName>Marek</FirstName>
-		<Rank>6</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>11.2</Points>
-	</result>
-	<result>
-		<LastName>Qian</LastName>
-		<FirstName>Ying</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>AUFeC</Club>
-		<Named>1</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Kasperski</LastName>
-		<FirstName>Marek</FirstName>
-		<Rank>Cancelled</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Sabre</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>1</Points>
-	</result>
-	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Clayton</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>32</Points>
-	</result>
-	<result>
-		<LastName>Chandran</LastName>
-		<FirstName>Nalin</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>26</Points>
-	</result>
-	<result>
-		<LastName>Lam</LastName>
-		<FirstName>Tai Yuen</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Dzodzos</LastName>
-		<FirstName>Michael</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Vingelis-Plant</LastName>
-		<FirstName>Myka</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Scully</LastName>
-		<FirstName>Mark</FirstName>
-		<Rank>6</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>IND</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Addis</LastName>
-		<FirstName>Sam</FirstName>
-		<Rank>7</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>TPFC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Hillock</LastName>
-		<FirstName>Richard</FirstName>
-		<Rank>8</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Barratt</LastName>
-		<FirstName>Georgina</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>32</Points>
-	</result>
-	<result>
-		<LastName>Qian</LastName>
-		<FirstName>Ying</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>AUFeC</Club>
-		<Named>1</Named>
-		<Points>26</Points>
-	</result>
-	<result>
-		<LastName>Hamilton</LastName>
-		<FirstName>Rhona</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>AUFeC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Dippy</LastName>
-		<FirstName>Charlie</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Bugeja</LastName>
-		<FirstName>Hannah</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Open</AgeGroup>
-		<Weapon>Foil</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Darren</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>25.6</Points>
-	</result>
-	<result>
-		<LastName>Spinks</LastName>
-		<FirstName>Dov</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>AHFC</Club>
-		<Named>1</Named>
-		<Points>20.8</Points>
-	</result>
-	<result>
-		<LastName>Scully</LastName>
-		<FirstName>Mark</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>IND</Club>
-		<Named>1</Named>
-		<Points>16</Points>
-	</result>
-	<result>
-		<LastName>Vingelis-Plant</LastName>
-		<FirstName>Keith</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Men</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>16</Points>
-	</result>
-	<result>
-		<LastName>Ferguson</LastName>
-		<FirstName>Nadine</FirstName>
-		<Rank>1</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>CSFC</Club>
-		<Named>1</Named>
-		<Points>32</Points>
-	</result>
-	<result>
-		<LastName>Dawson</LastName>
-		<FirstName>Jackie</FirstName>
-		<Rank>2</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>AHFC</Club>
-		<Named>1</Named>
-		<Points>26</Points>
-	</result>
-	<result>
-		<LastName>Sopru</LastName>
-		<FirstName>Coraine</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Lucy</LastName>
-		<FirstName>Sarah</FirstName>
-		<Rank>3</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>20</Points>
-	</result>
-	<result>
-		<LastName>Wotherspoon</LastName>
-		<FirstName>Alison</FirstName>
-		<Rank>5</Rank>
-		<EventDate>2021-10-17T00:00:00.000</EventDate>
-		<Level>S</Level>
-		<EventName>State Champs</EventName>
-		<AgeGroup>Veteran</AgeGroup>
-		<Weapon>Epee</Weapon>
-		<Gender>Women</Gender>
-		<Club>ASC</Club>
-		<Named>1</Named>
-		<Points>14</Points>
-	</result>
-	<result>
-		<LastName>Chandran</LastName>
 		<FirstName>Nalin</FirstName>
 		<Rank>1</Rank>
 		<EventDate>2021-10-24T00:00:00.000</EventDate>
@@ -2364,7 +1706,7 @@
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
 		<Named>1</Named>
-		<Points>0</Points>
+		<Points>4.8</Points>
 	</result>
 	<result>
 		<LastName>Lucy</LastName>
@@ -3092,7 +2434,7 @@
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
 		<Named>1</Named>
-		<Points>0</Points>
+		<Points>4.8</Points>
 	</result>
 	<result>
 		<LastName>Chandran</LastName>
@@ -4170,7 +3512,7 @@
 		<Gender>Women</Gender>
 		<Club>ASC</Club>
 		<Named>1</Named>
-		<Points>9.6</Points>
+		<Points>0</Points>
 	</result>
 	<result>
 		<LastName>Ferguson</LastName>
@@ -4212,7 +3554,7 @@
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
 		<Named>1</Named>
-		<Points>0</Points>
+		<Points>4.8</Points>
 	</result>
 	<result>
 		<LastName>Bugeja</LastName>
@@ -4268,7 +3610,7 @@
 		<Gender>Women</Gender>
 		<Club>CSFC</Club>
 		<Named>1</Named>
-		<Points>5.6</Points>
+		<Points>0</Points>
 	</result>
 	<result>
 		<LastName>Sopru</LastName>
@@ -7519,298 +6861,396 @@
 		<Points>1</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Burgun</LastName>
+		<FirstName>Alexandre</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>28</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Chandran</LastName>
+		<FirstName>Roshan</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>23</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Barchiesi</LastName>
+		<FirstName>Matteo</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Ferguson</LastName>
+		<FirstName>Darren</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Marshall</LastName>
+		<FirstName>Stuart</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Yu</LastName>
+		<FirstName>Jerry</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Mens</LastName>
+		<FirstName>Ursula</FirstName>
+		<Rank>7</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club/>
+		<Named>0</Named>
+		<Points>4.8</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Bury</LastName>
+		<FirstName>Connor</FirstName>
+		<Rank>8</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Kingston</LastName>
+		<FirstName>Oscar</FirstName>
+		<Rank>9</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>7</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Vingelis-Plant</LastName>
+		<FirstName>Keith</FirstName>
+		<Rank>10</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>7</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Staehr</LastName>
+		<FirstName>Craig</FirstName>
+		<Rank>11</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>7</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Wotherspoon</LastName>
+		<FirstName>Alison</FirstName>
+		<Rank>12</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>2.8</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Pring</LastName>
+		<FirstName>Oliver</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club/>
+		<Named>0</Named>
+		<Points>28</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Dzodzos</LastName>
+		<FirstName>Michael</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>23</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Bury</LastName>
+		<FirstName>Connor</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Vingelis-Plant</LastName>
+		<FirstName>Myka</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Ferguson</LastName>
+		<FirstName>Christian</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Wheeler</LastName>
+		<FirstName>Hugh</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>TPFC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Barratt</LastName>
+		<FirstName>Georgina</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>28</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Menz</LastName>
+		<FirstName>Ursula</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>23</Points>
 	</result>
 	<result>
-		<LastName/>
-		<FirstName/>
-		<Rank/>
-		<EventDate/>
-		<Level/>
-		<EventName/>
-		<AgeGroup/>
-		<Weapon/>
-		<Gender/>
-		<Club>0</Club>
-		<Named/>
-		<Points/>
+		<LastName>Brown</LastName>
+		<FirstName>Sophie</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Bugeja</LastName>
+		<FirstName>Hannah</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>18</Points>
+	</result>
+	<result>
+		<LastName>Dippy</LastName>
+		<FirstName>Charlie</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>12</Points>
+	</result>
+	<result>
+		<LastName>Ferguson</LastName>
+		<FirstName>Darren</FirstName>
+		<Rank>1</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>CSFC</Club>
+		<Named>0</Named>
+		<Points>22.4</Points>
+	</result>
+	<result>
+		<LastName>Barchiesi</LastName>
+		<FirstName>Matteo</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>18.4</Points>
+	</result>
+	<result>
+		<LastName>Staehr</LastName>
+		<FirstName>Craig</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>14.4</Points>
+	</result>
+	<result>
+		<LastName>Vingelis-Plant</LastName>
+		<FirstName>Keith</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>14.4</Points>
+	</result>
+	<result>
+		<LastName>Wotherspoon</LastName>
+		<FirstName>Alison</FirstName>
+		<Rank>5</Rank>
+		<EventDate>2022-10-08T00:00:00.000</EventDate>
+		<Level>S</Level>
+		<EventName>FSA</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>0</Named>
+		<Points>2.4</Points>
 	</result>
 	<result>
 		<LastName/>
