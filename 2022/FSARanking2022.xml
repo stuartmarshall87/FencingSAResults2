@@ -6259,6 +6259,118 @@
 		<Points>10.8</Points>
 	</result>
 	<result>
+		<LastName>Barry</LastName>
+		<FirstName>Peter</FirstName>
+		<Rank>2</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>AUFeC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Barry</LastName>
+		<FirstName>Peter</FirstName>
+		<Rank>29</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>AUFeC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Dzodzos</LastName>
+		<FirstName>Michael</FirstName>
+		<Rank>12</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>11.2</Points>
+	</result>
+	<result>
+		<LastName>Wotherspoon</LastName>
+		<FirstName>Alison</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>14</Points>
+	</result>
+	<result>
+		<LastName>Wotherspoon</LastName>
+		<FirstName>Alison</FirstName>
+		<Rank>21</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Veteran</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>4.8</Points>
+	</result>
+	<result>
+		<LastName>Barratt</LastName>
+		<FirstName>Georgina</FirstName>
+		<Rank>6</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Foil</Weapon>
+		<Gender>Women</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>0</Points>
+	</result>
+	<result>
+		<LastName>Chandran</LastName>
+		<FirstName>Roshan</FirstName>
+		<Rank>3</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>28</Points>
+	</result>
+	<result>
+		<LastName>Yu</LastName>
+		<FirstName>Jerry</FirstName>
+		<Rank>38</Rank>
+		<EventDate>2022-08-27T00:00:00.000</EventDate>
+		<Level>N</Level>
+		<EventName>AFC 3</EventName>
+		<AgeGroup>Open</AgeGroup>
+		<Weapon>Epee</Weapon>
+		<Gender>Men</Gender>
+		<Club>ASC</Club>
+		<Named>1</Named>
+		<Points>2.8</Points>
+	</result>
+	<result>
 		<LastName>Chambers</LastName>
 		<FirstName>Oscar</FirstName>
 		<Rank>1</Rank>
@@ -6954,7 +7066,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Epee</Weapon>
 		<Gender>Women</Gender>
-		<Club/>
+		<Club>ASC</Club>
 		<Named>0</Named>
 		<Points>4.8</Points>
 	</result>
@@ -7038,7 +7150,7 @@
 		<AgeGroup>Open</AgeGroup>
 		<Weapon>Foil</Weapon>
 		<Gender>Men</Gender>
-		<Club/>
+		<Club>ASC</Club>
 		<Named>0</Named>
 		<Points>28</Points>
 	</result>
@@ -7251,6 +7363,216 @@
 		<Club>ASC</Club>
 		<Named>0</Named>
 		<Points>2.4</Points>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
+	</result>
+	<result>
+		<LastName/>
+		<FirstName/>
+		<Rank/>
+		<EventDate/>
+		<Level/>
+		<EventName/>
+		<AgeGroup/>
+		<Weapon/>
+		<Gender/>
+		<Club>0</Club>
+		<Named/>
+		<Points/>
 	</result>
 	<result>
 		<LastName/>
