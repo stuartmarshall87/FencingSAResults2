@@ -2,7 +2,7 @@ from pathlib import Path
 import re
 import os
 
-years = ['2008', '2009', '2010', '2011', '2012']
+years = ['2008', '2009', '2010', '2011', '2012', '2013']
 for year in years:
     for path in Path(year).rglob('*.htm*'):
         splitPath = re.split('\.|\_|\\\\', str(path))[1:]
@@ -44,9 +44,7 @@ for year in years:
                     case 'u11':
                         splitPath[index] = 'U11'
                     case 'u17u20':
-                        splitPath[index] = 'U17U20'
-                    case 'u17u20':
-                        splitPath[index] = 'U17U20'
+                        splitPath[index] = 'U1720'
                         
                     case 'mens':
                         splitPath[index] = 'M'
