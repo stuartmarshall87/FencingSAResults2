@@ -4,7 +4,7 @@ import os
 import filecmp
 import shutil
 
-years = ['2016']
+years = ['2015', '2014']
 for year in years:
     for path in Path(year).rglob('*.htm'):
         fullpath = path
