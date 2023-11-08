@@ -10,10 +10,12 @@ def copyfile(subFilePath: str):
             for line in infile:
                 if 'http://engarde-escrime.com' not in line:
                     outfile.write(line)
+                else:
+                    outfile.write('<p></p>\n')
         os.remove(subFilePath)
 
 
-years = ['2014']
+years = ['2017']
 for year in years:
     for path in Path(year).rglob('*.htm*'):
         fullpath = path
