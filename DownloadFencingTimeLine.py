@@ -4,6 +4,7 @@ import re
 from datetime import datetime
 import json
 
+minDate = datetime(2023, 11, 19)
 year = 2023
 url = 'https://fencingsa.org.au/' + str(year) + '-Results'
 tournamentIndex = urllib.request.urlopen(url).read()
@@ -24,6 +25,9 @@ for url in urls:
 
     date_format = '%A %B %d, %Y'
     date = datetime.strptime(date.text, date_format)
+    if date < minDate:
+        continue
+
     date = date.strftime('%Y%m%d')
 
     def getCategory(compName: str):
