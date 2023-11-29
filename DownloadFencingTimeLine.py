@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 import json
 
-minDate = datetime(2023, 11, 19)
+minDate = datetime(2023, 11, 20)
 year = 2023
 url = 'https://fencingsa.org.au/' + str(year) + '-Results'
 tournamentIndex = urllib.request.urlopen(url).read()
