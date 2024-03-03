@@ -4,9 +4,9 @@ import re
 from datetime import datetime
 import json
 
-minDate = datetime(2023, 11, 20)
-year = 2023
-url = 'https://fencingsa.org.au/' + str(year) + '-Results'
+minDate = datetime(2024, 2, 1)
+year = 2024
+url = 'https://fencingsa.org.au/results-/' + str(year) + '-Results'
 tournamentIndex = urllib.request.urlopen(url).read()
 
 soup = BeautifulSoup(tournamentIndex, 'html.parser')
