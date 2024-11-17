@@ -3,8 +3,10 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 import json
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
-minDate = datetime(2024, 2, 1)
+minDate = datetime(2024, 8, 12)
 year = 2024
 url = 'https://fencingsa.org.au/results-/' + str(year) + '-Results'
 tournamentIndex = urllib.request.urlopen(url).read()
@@ -55,6 +57,8 @@ for url in urls:
             return 'U11'
         if 'U9' in compName:
             return 'U9'
+        if 'Novice' in compName:
+            return 'N'
     
     def getGender(compName: str):
         if 'Mens' in compName:
@@ -93,6 +97,7 @@ for url in urls:
         compName = str(link.text).strip()
         if 'Team' in compName:
             continue
+        print (compName)
         category = getCategory(compName)
         gender = getGender(compName)
         weapon = getWeapon(compName)
