@@ -6,9 +6,11 @@ import json
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-minDate = datetime(2024, 8, 12)
-year = 2024
-url = 'https://fencingsa.org.au/results-/' + str(year) + '-Results'
+minDate = datetime(2026, 1, 19)
+year = 2026
+
+# Read the FSA website results page. Extract the links to Fencing Time tournaments
+url = 'https://www.fencingsa.org.au/results-/' + str(year) + '-Results'
 tournamentIndex = urllib.request.urlopen(url).read()
 
 soup = BeautifulSoup(tournamentIndex, 'html.parser')
@@ -41,6 +43,12 @@ for url in urls:
             return 'O'
         if 'Open' in compName:
             return 'O'
+        if 'Coraine Sopru' in compName:
+            return 'O'
+        if 'Bruce Kneale' in compName:
+            return 'O'
+        if 'Andrea Chaplin' in compName:
+            return 'O'
         if 'Veteran' in compName:
             return 'V'
         if 'U17/U20' in compName:
@@ -53,12 +61,20 @@ for url in urls:
             return 'U15'
         if 'U13' in compName:
             return 'U13'
+        if '13' in compName:
+            return 'U13'
         if 'U11' in compName:
             return 'U11'
         if 'U9' in compName:
             return 'U9'
         if 'Novice' in compName:
             return 'N'
+        if 'Under 17/20' in compName:
+            return 'U1720'
+        if 'Under 15' in compName:
+            return 'U15'
+        if 'Vet' in compName:
+            return 'V'
     
     def getGender(compName: str):
         if 'Mens' in compName:
@@ -81,6 +97,10 @@ for url in urls:
             return ''
         if 'Meredith Coleman' in compName:
             return ''
+        if 'Bruce Kneale' in compName:
+            return 'M'
+        if 'Andrea Chaplin' in compName:
+            return 'W'
         
     def getWeapon(compName: str):        
         if 'Foil' in compName:
@@ -89,6 +109,8 @@ for url in urls:
             return 'E'
         if 'Sabre' in compName:
             return 'S'
+        if 'Épée' in compName:
+            return 'E'
     
     soup = soup.find('table', {"class":"scheduleTable"})
     links = soup.find_all('a')
@@ -97,10 +119,11 @@ for url in urls:
         compName = str(link.text).strip()
         if 'Team' in compName:
             continue
-        print (compName)
+        print(str(date) + compName)
         category = getCategory(compName)
         gender = getGender(compName)
         weapon = getWeapon(compName)
+        print(compName, date, category, gender, weapon)
         fileName = date + category + gender + weapon        
         
         compHome = urllib.request.urlopen('https://fencingtimelive.com' + href).read()
